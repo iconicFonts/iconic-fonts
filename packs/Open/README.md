@@ -62,7 +62,7 @@ curl -o C:\Windows\Fonts\open.ttf https://raw.githubusercontent.com/iconicFonts/
 > [!NOTE]
 >
 > 1. The icon pack name, originally Open Iconic**, was changed to **Open**.
->    2 **open** font is standalone and has its own [codepoints](https://github.com/iconicFonts/if/blob/main/indices/Open.csv), which are different from those in the **iPack\*\* fonts[^1].
+> 2. The **open** font is standalone and has its own [codepoints](https://github.com/iconicFonts/if/blob/main/indices/Open.csv), which are different from those in the **iPack\*\* fonts[^1].
 
 > [!IMPORTANT]  
 > The [codepoints](https://github.com/iconicFonts/if/blob/main/indices/Open.csv) for the **open** font remain unchanged and will not alter in the future, ensuring that you can use the font safely even when new versions are released.
