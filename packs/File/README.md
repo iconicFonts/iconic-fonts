@@ -64,7 +64,7 @@ curl -o C:\Windows\Fonts\File.ttf https://raw.githubusercontent.com/iconicFonts/
 > 1. The suffixes of icons were adjusted from `-Alt[N]` to `-N`, where `N` represents a number, until a unique icon name was found.
 > 2. **File** font is standalone and has its own [codepoints](https://github.com/iconicFonts/if/blob/main/indices/File.csv), which are different from those in the [IF](https://github.com/iconicFonts/if/blob/main/indices/if.csv) font[^1].
 
-> [!IMPORTANT
+> [!IMPORTANT]
 > The [codepoints](https://github.com/iconicFonts/if/blob/main/indices/File.csv) for the **File** font remain unchanged and will not alter in the future, ensuring that you can use the font safely even when new versions are released.
 
 ## Support
