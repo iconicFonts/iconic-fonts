@@ -15,8 +15,8 @@
 | **Family Name** | open IF                                                                                                                                                                 |
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iconicFonts/if/main/imgs/open_dark.png">
-  <img alt="open icons preview" src="https://raw.githubusercontent.com/iconicFonts/if/main/imgs/open_light.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iconicFonts/if/main/imgs/Open_dark.png">
+  <img alt="open icons preview" src="https://raw.githubusercontent.com/iconicFonts/if/main/imgs/Open_light.png">
 </picture>
 
 ## Installation
