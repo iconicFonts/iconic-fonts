@@ -57,8 +57,6 @@ curl -o C:\Windows\Fonts\AntDesign.ttf https://raw.githubusercontent.com/iconicF
 
 </details>
 
-<details>
-
 ## Usage Notes
 
 > [!NOTE]
