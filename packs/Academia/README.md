@@ -72,4 +72,4 @@ curl -o C:\Windows\Fonts\Academia.ttf https://raw.githubusercontent.com/iconicFo
 
 If you've found this project helpful, a little love goes a long way. Give it a :star: or share it around.
 
-[^1]: The first glyph for the **Academia** font starts from codepoint `E000`, while for the **iPack** font, it starts from `F73EF`.
+[^1]: The first glyph for the **Academia** font starts from codepoint `E000`, while for the **IF** font, it starts from `F73EF`.
