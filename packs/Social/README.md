@@ -8,7 +8,7 @@
 | :-------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Version**     | `v1.0.0` <sup>_Custom_</sup>                                                                                                                                                |
 | **Fonts**       | [TTF](https://raw.githubusercontent.com/iconicFonts/if/main/fonts/TTF/Social.ttf) - [WOFF2](https://raw.githubusercontent.com/iconicFonts/if/main/fonts/WOFF2/Social.woff2) |
-| **Icons**       | [SVGs](https://github.com/iconicFonts/if/tree/main/packs/Social/svgs) <sup>_672_</sup>                                                                                      |
+| **Icons**       | [SVGs](https://github.com/iconicFonts/if/tree/main/packs/Social/svgs) <sup>_35_</sup>                                                                                       |
 | **Index**       | [CSV](https://github.com/iconicFonts/if/blob/main/indices/Social.csv)                                                                                                       |
 | **Codepoints**  | `U+E000..U+E021` <sup>_Custom_</sup>                                                                                                                                        |
 | **Fontname**    | SocialIF                                                                                                                                                                    |
@@ -72,4 +72,4 @@ curl -o C:\Windows\Fonts\Social.ttf https://raw.githubusercontent.com/iconicFont
 
 If you've found this project helpful, a little love goes a long way. Give it a :star: or share it around.
 
-[^1]: The first glyph for the **Social** font starts from codepoint `E000`, while for the **iPack** font, it starts from `???????????????????????????????`.
+[^1]: The first glyph for the **Social** font starts from codepoint `E000`, while for the **iPack** font, it starts from `F5403`.
