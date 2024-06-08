@@ -3,7 +3,6 @@
 - [**Installation**](#installation)
 - [**Usage Notes**](#usage-notes)
 - [**Support**](#support)
-- [License](#license)
 
 | Repo            | [coreui-icons/tree/main](https://github.com/coreui/coreui-icons)                                                                                                            |
 | :-------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -64,7 +63,7 @@ curl -o C:\Windows\Fonts\CoreUi.ttf https://raw.githubusercontent.com/iconicFont
 >
 > 1. The icon pack name, originally **CoreUI Icons**, was changed to **CoreUi**.
 > 2. Icons come without [flag style](https://github.com/coreui/coreui-icons/tree/main/svg/flag)
-> 3. **CoreUi** font is standalone and has its own [codepoints](https://github.com/iconicFonts/if/blob/main/indices/CoreUi.csv), which are different from those in the [IF](https://github.com/iconicFonts/if/blob/main/indices/if.csv) font[^1].
+> 3. The **CoreUi** font is standalone and has its own [codepoints](https://github.com/iconicFonts/if/blob/main/indices/CoreUi.csv), which are different from those in the [IF](https://github.com/iconicFonts/if/blob/main/indices/if.csv) font[^1].
 
 > [!IMPORTANT]
 > The [codepoints](https://github.com/iconicFonts/if/blob/main/indices/CoreUi.csv) for the **CoreUi** font remain unchanged and will not alter in the future, ensuring that you can use the font safely even when new versions are released.
