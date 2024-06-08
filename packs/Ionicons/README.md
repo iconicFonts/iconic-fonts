@@ -62,7 +62,7 @@ curl -o C:\Windows\Fonts\Ionicons.ttf https://raw.githubusercontent.com/iconicFo
 > [!NOTE]
 >
 > 1. The suffixes of icons were adjusted from `-outline`, `-circle`, and `sharp` to `-N`, where `N` represents a number, until a unique icon name was found.
-> 2 The **Ionicons** font is standalone and has its own [codepoints](https://github.com/iconicFonts/if/blob/main/indices/Ionicons.csv), which are different from those in the [IF](https://github.com/iconicFonts/if/blob/main/indices/if.csv) font[^1].
+> 2. The **Ionicons** font is standalone and has its own [codepoints](https://github.com/iconicFonts/if/blob/main/indices/Ionicons.csv), which are different from those in the [IF](https://github.com/iconicFonts/if/blob/main/indices/if.csv) font[^1].
 
 > [!IMPORTANT]  
 > The [codepoints](https://github.com/iconicFonts/if/blob/main/indices/Ionicons.csv) for the **Ionicons** font remain unchanged and will not alter in the future, ensuring that you can use the font safely even when new versions are released.
