@@ -61,8 +61,8 @@ curl -o C:\Windows\Fonts\Lucide.ttf https://raw.githubusercontent.com/iconicFont
 
 > [!NOTE]
 >
-> 1. **Lucide** font is standalone and has its own [codepoints](https://github.com/iconicFonts/if/blob/main/indices/Lucide.csv), which are different from those in the [IF](https://github.com/iconicFonts/if/blob/main/indices/if.csv) font[^1].
-> 2. **Lucide** icons are also similar to the [Feather](https://github.com/iconicFonts/if/edit/main/packs/Feather/README.md) and [Tabler](https://github.com/iconicFonts/if/edit/main/packs/Tabler/README.md) icons.
+> 1. The **Lucide** font is standalone and has its own [codepoints](https://github.com/iconicFonts/if/blob/main/indices/Lucide.csv), which are different from those in the [IF](https://github.com/iconicFonts/if/blob/main/indices/if.csv) font[^1].
+> 2. The **Lucide** icons are also similar to the [Feather](https://github.com/iconicFonts/if/edit/main/packs/Feather) and [Tabler](https://github.com/iconicFonts/if/edit/main/packs/Tabler) icons.
 
 > [!IMPORTANT]  
 > The [codepoints](https://github.com/iconicFonts/if/blob/main/indices/Lucide.csv) for the **Lucide** font remain unchanged and will not alter in the future, ensuring that you can use the font safely even when new versions are released.
