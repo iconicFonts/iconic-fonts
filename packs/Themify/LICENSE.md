@@ -1,0 +1,2 @@
+- Themify Icons font licensed under: [http://scripts.sil.org/OFL](http://scripts.sil.org/OFL)
+- All brand icons are copyright/trademarks of their respective owners.
