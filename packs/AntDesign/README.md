@@ -18,6 +18,7 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iconicFonts/if/main/imgs/AntDesign_dark.png">
   <img alt="AntDesign icons preview" src="https://raw.githubusercontent.com/iconicFonts/if/main/imgs/AntDesign_light.png">
 </picture>
+
 ## Installation
 
 <details>
