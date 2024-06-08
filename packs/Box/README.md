@@ -57,8 +57,6 @@ curl -o C:\Windows\Fonts\Box.ttf https://raw.githubusercontent.com/iconicFonts/i
 
 </details>
 
-<details>
-
 ## Usage Notes
 
 > [!NOTE]

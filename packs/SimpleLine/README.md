@@ -58,8 +58,6 @@ curl -o C:\Windows\Fonts\SimpleLine.ttf https://raw.githubusercontent.com/iconic
 
 </details>
 
-<details>
-
 ## Usage Notes
 
 > [!NOTE] > **SimpleLine** font is standalone and has its own [codepoints](https://github.com/iconicFonts/if/blob/main/indices/SimpleLine.csv), which are different from those in the [IF](https://github.com/iconicFonts/if/blob/main/indices/if.csv) font[^1].

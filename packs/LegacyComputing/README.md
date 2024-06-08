@@ -58,8 +58,6 @@ curl -o C:\Windows\Fonts\LegacyComputing.ttf https://raw.githubusercontent.com/i
 
 </details>
 
-<details>
-
 ## Usage Notes
 
 > [!NOTE] > **LegacyComputing** font is standalone and has its own [codepoints](https://github.com/iconicFonts/if/blob/main/indices/LegacyComputing.csv), which are different from those in the [IF](https://github.com/iconicFonts/if/blob/main/indices/if.csv) font[^1].

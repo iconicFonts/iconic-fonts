@@ -58,8 +58,6 @@ curl -o C:\Windows\Fonts\Logos.ttf https://raw.githubusercontent.com/iconicFonts
 
 </details>
 
-<details>
-
 ## Usage Notes
 
 > [!NOTE]

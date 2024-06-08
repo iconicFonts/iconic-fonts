@@ -58,8 +58,6 @@ curl -o C:\Windows\Fonts\Weather.ttf https://raw.githubusercontent.com/iconicFon
 
 </details>
 
-<details>
-
 ## Usage Notes
 
 > [!NOTE]

@@ -58,8 +58,6 @@ curl -o C:\Windows\Fonts\Tabler.ttf https://raw.githubusercontent.com/iconF5426i
 
 </details>
 
-<details>
-
 ## Usage Notes
 
 > [!NOTE]

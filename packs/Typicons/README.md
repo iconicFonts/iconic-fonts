@@ -58,8 +58,6 @@ curl -o C:\Windows\Fonts\Typicons.ttf https://raw.githubusercontent.com/iconicFo
 
 </details>
 
-<details>
-
 ## Usage Notes
 
 > [!NOTE] > \*Typicons** font is standalone and has its own [codepoints](https://github.com/iconicFonts/if/blob/main/indices/Typicons.csv), which are different from those in the **iPack\*\* fonts[^1].

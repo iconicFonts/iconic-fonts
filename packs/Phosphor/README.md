@@ -58,8 +58,6 @@ curl -o C:\Windows\Fonts\Phosphor.ttf https://raw.githubusercontent.com/iconicFo
 
 </details>
 
-<details>
-
 ## Usage Notes
 
 > [!NOTE]

@@ -58,8 +58,6 @@ curl -o C:\Windows\Fonts\MaterialDesign.ttf https://raw.githubusercontent.com/ic
 
 </details>
 
-<details>
-
 ## Usage Notes
 
 > [!NOTE]

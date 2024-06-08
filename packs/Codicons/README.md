@@ -57,8 +57,6 @@ curl -o C:\Windows\Fonts\Codicons.ttf https://raw.githubusercontent.com/iconicFo
 
 </details>
 
-<details>
-
 ## Usage Notes
 
 > [!NOTE]  

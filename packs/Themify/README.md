@@ -58,8 +58,6 @@ curl -o C:\Windows\Fonts\Themify.ttf https://raw.githubusercontent.com/iconicFon
 
 </details>
 
-<details>
-
 ## Usage Notes
 
 > [!NOTE] > \*Themify** font is standalone and has its own [codepoints](https://github.com/iconicFonts/if/blob/main/indices/Themify.csv), which are different from those in the **iPack\*\* fonts[^1].

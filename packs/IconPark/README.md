@@ -57,8 +57,6 @@ curl -o C:\Windows\Fonts\IconPark.ttf https://raw.githubusercontent.com/iconicFo
 
 </details>
 
-<details>
-
 ## Usage Notes
 
 > [!NOTE]

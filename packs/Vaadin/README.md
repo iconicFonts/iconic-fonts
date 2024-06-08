@@ -58,8 +58,6 @@ curl -o C:\Windows\Fonts\Vaadin.ttf https://raw.githubusercontent.com/iconicFont
 
 </details>
 
-<details>
-
 ## Usage Notes
 
 > [!NOTE]

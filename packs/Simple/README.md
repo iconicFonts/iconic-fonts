@@ -58,8 +58,6 @@ curl -o C:\Windows\Fonts\Simple.ttf https://raw.githubusercontent.com/iconicFont
 
 </details>
 
-<details>
-
 ## Usage Notes
 
 > [!NOTE] > **Simple** font is standalone and has its own [codepoints](https://github.com/iconicFonts/if/blob/main/indices/Simple.csv), which are different from those in the [IF](https://github.com/iconicFonts/if/blob/main/indices/if.csv) font[^1].

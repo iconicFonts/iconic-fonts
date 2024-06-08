@@ -58,8 +58,6 @@ curl -o C:\Windows\Fonts\FontAwesome.ttf https://raw.githubusercontent.com/iconi
 
 </details>
 
-<details>
-
 ## Usage Notes
 
 > [!NOTE]  

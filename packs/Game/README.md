@@ -57,8 +57,6 @@ curl -o C:\Windows\Fonts\Game.ttf https://raw.githubusercontent.com/iconicFonts/
 
 </details>
 
-<details>
-
 ## Usage Notes
 
 > [!NOTE]

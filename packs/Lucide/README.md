@@ -58,8 +58,6 @@ curl -o C:\Windows\Fonts\Lucide.ttf https://raw.githubusercontent.com/iconicFont
 
 </details>
 
-<details>
-
 ## Usage Notes
 
 > [!NOTE]

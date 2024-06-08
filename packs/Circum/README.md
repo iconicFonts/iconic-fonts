@@ -57,8 +57,6 @@ curl -o C:\Windows\Fonts\Circum.ttf https://raw.githubusercontent.com/iconicFont
 
 </details>
 
-<details>
-
 ## Usage Notes
 
 > [!NOTE]  

@@ -57,8 +57,6 @@ curl -o C:\Windows\Fonts\Framework7.ttf https://raw.githubusercontent.com/iconic
 
 </details>
 
-<details>
-
 ## Usage Notes
 
 > [!NOTE]

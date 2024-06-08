@@ -57,8 +57,6 @@ curl -o C:\Windows\Fonts\Feather.ttf https://raw.githubusercontent.com/iconicFon
 
 </details>
 
-<details>
-
 ## Usage Notes
 
 > [!NOTE]

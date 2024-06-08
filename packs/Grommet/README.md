@@ -57,8 +57,6 @@ curl -o C:\Windows\Fonts\Grommet.ttf https://raw.githubusercontent.com/iconicFon
 
 </details>
 
-<details>
-
 ## Usage Notes
 
 > [!NOTE] > **Grommet** font is standalone and has its own [codepoints](https://github.com/iconicFonts/if/blob/main/indices/Grommet.csv), which are different from those in the [IF](https://github.com/iconicFonts/if/blob/main/indices/if.csv) font[^1].

@@ -57,8 +57,6 @@ curl -o C:\Windows\Fonts\File.ttf https://raw.githubusercontent.com/iconicFonts/
 
 </details>
 
-<details>
-
 ## Usage Notes
 
 > [!NOTE]

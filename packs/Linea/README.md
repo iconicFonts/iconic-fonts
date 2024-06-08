@@ -58,8 +58,6 @@ curl -o C:\Windows\Fonts\Linea.ttf https://raw.githubusercontent.com/iconicFonts
 
 </details>
 
-<details>
-
 ## Usage Notes
 
 > [!NOTE]

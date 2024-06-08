@@ -54,8 +54,6 @@ curl -o C:\Windows\Fonts\Devicon.ttf https://raw.githubusercontent.com/iconicFon
 
 </details>
 
-<details>
-
 ## Usage Notes
 
 > [!NOTE]  

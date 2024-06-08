@@ -58,8 +58,6 @@ curl -o C:\Windows\Fonts\CoreUi.ttf https://raw.githubusercontent.com/iconicFont
 
 </details>
 
-<details>
-
 ## Usage Notes
 
 > [!NOTE]
