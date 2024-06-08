@@ -59,7 +59,8 @@ curl -o C:\Windows\Fonts\Siji.ttf https://raw.githubusercontent.com/iconicFonts/
 
 ## Usage Notes
 
-> [!NOTE] > **Siji** font is standalone and has its own [codepoints](https://github.com/iconicFonts/if/blob/main/indices/Siji.csv), which are different from those in the [IF](https://github.com/iconicFonts/if/blob/main/indices/if.csv) font[^1].
+> [!NOTE]
+> The **Siji** font is standalone and has its own [codepoints](https://github.com/iconicFonts/if/blob/main/indices/Siji.csv), which are different from those in the [IF](https://github.com/iconicFonts/if/blob/main/indices/if.csv) font[^1].
 
 > [!IMPORTANT]  
 > The [codepoints](https://github.com/iconicFonts/if/blob/main/indices/Siji.csv) for the **Siji** font remain unchanged and will not alter in the future, ensuring that you can use the font safely even when new versions are released.
