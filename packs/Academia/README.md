@@ -63,7 +63,7 @@ curl -o C:\Windows\Fonts\Academia.ttf https://raw.githubusercontent.com/iconicFo
 >
 > 1. The icon pack name, originally **Academicons**, was changed to **Academia**.
 > 2. The suffixes of icons were adjusted from `-square` to `-N`, where `N` represents a number, until a unique icon name was found.
-> 3. **Academia** font is standalone and has its own [codepoints](https://github.com/iconicFonts/if/blob/main/indices/Academia.csv)., which are different from those in the [IF](https://github.com/iconicFonts/if/blob/main/indices/if.csv) font[^1].
+> 3. **Academia** font is standalone and has its own [codepoints](https://github.com/iconicFonts/if/blob/main/indices/Academia.csv), which are different from those in the [IF](https://github.com/iconicFonts/if/blob/main/indices/if.csv) font[^1].
 
 > [!IMPORTANT]  
 > The [codepoints](https://github.com/iconicFonts/if/blob/main/indices/Academia.csv) for the **Academia** font remain unchanged and will not alter in the future, ensuring that you can use the font safely even when new versions are released.
