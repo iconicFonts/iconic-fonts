@@ -4,9 +4,8 @@
 - [**Usage Notes**](#usage-notes)
 - [**Support**](#support)
 
-|                 |                                                                                                                                                                         |
-| :-------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Repo            | [iconic/open-iconic](https://github.com/iconic/open-iconic)                                                                                                             |
+| :-------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Version**     | `v1.0.0` <sup>_Custom_</sup>                                                                                                                                            |
 | **Fonts**       | [TTF](https://raw.githubusercontent.com/iconicFonts/if/main/fonts/TTF/open.ttf) - [WOFF2](https://raw.githubusercontent.com/iconicFonts/if/main/fonts/WOFF2/open.woff2) |
 | **Icons**       | [SVGs](https://github.com/iconicFonts/if/tree/main/packs/open/svgs) <sup>_223_</sup>                                                                                    |

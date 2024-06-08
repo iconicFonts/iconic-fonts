@@ -5,7 +5,7 @@
 - [**Support**](#support)
 
 | Repo            | [bytedance/IconPark](https://github.com/bytedance/IconPark)                                                                                                                     |
-| :-------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| :-------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Version**     | `v1.0.0` <sup>_Custom_</sup>                                                                                                                                                    |
 | **Fonts**       | [TTF](https://raw.githubusercontent.com/iconicFonts/if/main/fonts/TTF/IconPark.ttf) - [WOFF2](https://raw.githubusercontent.com/iconicFonts/if/main/fonts/WOFF2/IconPark.woff2) |
 | **Icons**       | [SVGs](https://github.com/iconicFonts/if/tree/main/packs/IconPark/svgs) <sup>_4,496_</sup>                                                                                      |

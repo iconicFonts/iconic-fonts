@@ -4,9 +4,8 @@
 - [**Usage Notes**](#usage-notes)
 - [**Support**](#support)
 
-|                 |                                                                                                                                                                                     |
-| :-------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Repo            | [thesabbir/simple-line-icons](https://github.com/thesabbir/simple-line-icons)                                                                                                       |
+| :-------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Version**     | `v1.0.0` <sup>_Custom_</sup>                                                                                                                                                        |
 | **Fonts**       | [TTF](https://raw.githubusercontent.com/iconicFonts/if/main/fonts/TTF/SimpleLine.ttf) - [WOFF2](https://raw.githubusercontent.com/iconicFonts/if/main/fonts/WOFF2/SimpleLine.woff2) |
 | **Icons**       | [SVGs](https://github.com/iconicFonts/if/tree/main/packs/SimpleLine/svgs) <sup>_189_</sup>                                                                                          |

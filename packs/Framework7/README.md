@@ -5,7 +5,7 @@
 - [**Support**](#support)
 
 | Repo            | [framework7io/Framework7-Icons](https://github.com/framework7io/Framework7-Icons)                                                                                                   |
-| :-------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| :-------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Version**     | `v1.0.0` <sup>_Custom_</sup>                                                                                                                                                        |
 | **Fonts**       | [TTF](https://raw.githubusercontent.com/iconicFonts/if/main/fonts/TTF/Framework7.ttf) - [WOFF2](https://raw.githubusercontent.com/iconicFonts/if/main/fonts/WOFF2/Framework7.woff2) |
 | **Icons**       | [SVGs](https://github.com/iconicFonts/if/tree/main/packs/Framework7/svgs) <sup>_1,207_</sup>                                                                                        |

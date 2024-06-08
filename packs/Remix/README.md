@@ -4,9 +4,8 @@
 - [**Usage Notes**](#usage-notes)
 - [**Support**](#support)
 
-|                 |                                                                                                                                                                           |
-| :-------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Repo            | [Remix-Design/remixicon](https://github.com/Remix-Design/remixicon)                                                                                                       |
+| :-------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Version**     | `v1.0.0` <sup>_Custom_</sup>                                                                                                                                              |
 | **Fonts**       | [TTF](https://raw.githubusercontent.com/iconicFonts/if/main/fonts/TTF/Remix.ttf) - [WOFF2](https://raw.githubusercontent.com/iconicFonts/if/main/fonts/WOFF2/Remix.woff2) |
 | **Icons**       | [SVGs](https://github.com/iconicFonts/if/tree/main/packs/Remix/svgs) <sup>_2,843_</sup>                                                                                   |

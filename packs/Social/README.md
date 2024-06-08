@@ -4,9 +4,8 @@
 - [**Usage Notes**](#usage-notes)
 - [**Support**](#support)
 
-|                 |                                                                                                                                                                             |
-| :-------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Repo            | [neilorangepeel/Free-Social-Icons](https://github.com/neilorangepeel/Free-Social-Icons)                                                                                     |
+| :-------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Version**     | `v1.0.0` <sup>_Custom_</sup>                                                                                                                                                |
 | **Fonts**       | [TTF](https://raw.githubusercontent.com/iconicFonts/if/main/fonts/TTF/Social.ttf) - [WOFF2](https://raw.githubusercontent.com/iconicFonts/if/main/fonts/WOFF2/Social.woff2) |
 | **Icons**       | [SVGs](https://github.com/iconicFonts/if/tree/main/packs/Social/svgs) <sup>_672_</sup>                                                                                      |

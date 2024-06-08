@@ -4,9 +4,8 @@
 - [**Usage Notes**](#usage-notes)
 - [**Support**](#support)
 
-|                 |                                                                                                                                                                             |
-| :-------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Repo            | [tabler/tabler-icons](https://github.com/tabler/tabler-icons)                                                                                                               |
+| :-------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Version**     | `v1.0.0` <sup>_Custom_</sup>                                                                                                                                                |
 | **Fonts**       | [TTF](https://raw.githubusercontent.com/iconicFonts/if/main/fonts/TTF/Tabler.ttf) - [WOFF2](https://raw.githubusercontent.com/iconicFonts/if/main/fonts/WOFF2/Tabler.woff2) |
 | **Icons**       | [SVGs](https://github.com/iconicFonts/if/tree/main/packs/Tabler/svgs) <sup>_5,241_</sup>                                                                                    |

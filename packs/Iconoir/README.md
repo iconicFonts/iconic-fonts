@@ -5,7 +5,7 @@
 - [**Support**](#support)
 
 | Repo            | [iconoir-icons/iconoir](https://github.com/iconoir-icons/iconoir)                                                                                                             |
-| :-------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| :-------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Version**     | `v1.0.0` <sup>_Custom_</sup>                                                                                                                                                  |
 | **Fonts**       | [TTF](https://raw.githubusercontent.com/iconicFonts/if/main/fonts/TTF/Iconoir.ttf) - [WOFF2](https://raw.githubusercontent.com/iconicFonts/if/main/fonts/WOFF2/Iconoir.woff2) |
 | **Icons**       | [SVGs](https://github.com/iconicFonts/if/tree/main/packs/Iconoir/svgs) <sup>_1,853_</sup>                                                                                     |

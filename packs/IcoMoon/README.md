@@ -5,7 +5,7 @@
 - [**Support**](#support)
 
 | Repo            | [Keyamoon/IcoMoon-Free](https://github.com/Keyamoon/IcoMoon-Free)                                                                                                             |
-| :-------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| :-------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Version**     | `v1.0.0` <sup>_Custom_</sup>                                                                                                                                                  |
 | **Fonts**       | [TTF](https://raw.githubusercontent.com/iconicFonts/if/main/fonts/TTF/IcoMoon.ttf) - [WOFF2](https://raw.githubusercontent.com/iconicFonts/if/main/fonts/WOFF2/IcoMoon.woff2) |
 | **Icons**       | [SVGs](https://github.com/iconicFonts/if/tree/main/packs/IcoMoon/svgs) <sup>_491_</sup>                                                                                       |

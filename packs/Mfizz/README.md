@@ -4,9 +4,8 @@
 - [**Usage Notes**](#usage-notes)
 - [**Support**](#support)
 
-|                 |                                                                                                                                                                           |
-| :-------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Repo            | [fizzed/font-mfizz](https://github.com/fizzed/font-mfizz)                                                                                                                 |
+| :-------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Version**     | `v1.0.0` <sup>_Custom_</sup>                                                                                                                                              |
 | **Fonts**       | [TTF](https://raw.githubusercontent.com/iconicFonts/if/main/fonts/TTF/Mfizz.ttf) - [WOFF2](https://raw.githubusercontent.com/iconicFonts/if/main/fonts/WOFF2/Mfizz.woff2) |
 | **Icons**       | [SVGs](https://github.com/iconicFonts/if/tree/main/packs/Mfizz/svgs) <sup>_136_</sup>                                                                                     |

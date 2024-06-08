@@ -6,7 +6,7 @@
 - [License](#license)
 
 | Repo            | [coreui-icons/tree/main](https://github.com/coreui/coreui-icons)                                                                                                            |
-| :-------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| :-------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Version**     | `v1.0.0` <sup>_Custom_</sup>                                                                                                                                                |
 | **Fonts**       | [TTF](https://raw.githubusercontent.com/iconicFonts/if/main/fonts/TTF/CoreUi.ttf) - [WOFF2](https://raw.githubusercontent.com/iconicFonts/if/main/fonts/WOFF2/CoreUi.woff2) |
 | **Icons**       | [SVGs](https://github.com/iconicFonts/if/tree/main/packs/CoreUi/svgs) <sup>_1,386_</sup>                                                                                    |

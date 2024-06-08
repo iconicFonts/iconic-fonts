@@ -4,9 +4,8 @@
 - [**Usage Notes**](#usage-notes)
 - [**Support**](#support)
 
-|                 |                                                                                                                                                                                 |
-| :-------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Repo            | [ionic-team/Ionicons](https://github.com/ionic-team/Ionicons)                                                                                                                   |
+| :-------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Version**     | `v1.0.0` <sup>_Custom_</sup>                                                                                                                                                    |
 | **Fonts**       | [TTF](https://raw.githubusercontent.com/iconicFonts/if/main/fonts/TTF/Ionicons.ttf) - [WOFF2](https://raw.githubusercontent.com/iconicFonts/if/main/fonts/WOFF2/Ionicons.woff2) |
 | **Icons**       | [SVGs](https://github.com/iconicFonts/if/tree/main/packs/Ionicons/svgs) <sup>_1,352_</sup>                                                                                      |

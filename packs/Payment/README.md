@@ -4,9 +4,8 @@
 - [**Usage Notes**](#usage-notes)
 - [**Support**](#support)
 
-|                 |                                                                                                                                                                               |
-| :-------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Repo            | [datatrans/payment-logos](https://github.com/datatrans/payment-logos)                                                                                                         |
+| :-------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Version**     | `v1.0.0` <sup>_Custom_</sup>                                                                                                                                                  |
 | **Fonts**       | [TTF](https://raw.githubusercontent.com/iconicFonts/if/main/fonts/TTF/Payment.ttf) - [WOFF2](https://raw.githubusercontent.com/iconicFonts/if/main/fonts/WOFF2/Payment.woff2) |
 | **Icons**       | [SVGs](https://github.com/iconicFonts/if/tree/main/packs/Payment/svgs) <sup>_54_</sup>                                                                                        |

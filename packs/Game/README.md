@@ -5,7 +5,7 @@
 - [**Support**](#support)
 
 | Repo            | [game-icons/icons](https://github.com/game-icons/icons)                                                                                                                 |
-| :-------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| :-------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Version**     | `v1.0.0` <sup>_Custom_</sup>                                                                                                                                            |
 | **Fonts**       | [TTF](https://raw.githubusercontent.com/iconicFonts/if/main/fonts/TTF/Game.ttf) - [WOFF2](https://raw.githubusercontent.com/iconicFonts/if/main/fonts/WOFF2/Game.woff2) |
 | **Icons**       | [SVGs](https://github.com/iconicFonts/if/tree/main/packs/Game/svgs) <sup>_4,208_</sup>                                                                                  |

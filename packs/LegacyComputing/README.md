@@ -4,9 +4,8 @@
 - [**Usage Notes**](#usage-notes)
 - [**Support**](#support)
 
-|                 |                                                                                                                                                                                               |
-| :-------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Repo            | [dokutan/legacy_computing-font](https://github.com/dokutan/legacy_computing-font)                                                                                                             |
+| :-------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Version**     | `v1.0.0` <sup>_Custom_</sup>                                                                                                                                                                  |
 | **Fonts**       | [TTF](https://raw.githubusercontent.com/iconicFonts/if/main/fonts/TTF/LegacyComputing.ttf) - [WOFF2](https://raw.githubusercontent.com/iconicFonts/if/main/fonts/WOFF2/LegacyComputing.woff2) |
 | **Icons**       | [SVGs](https://github.com/iconicFonts/if/tree/main/packs/LegacyComputing/svgs) <sup>_212_</sup>                                                                                               |

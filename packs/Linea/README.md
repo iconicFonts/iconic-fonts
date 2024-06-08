@@ -4,9 +4,8 @@
 - [**Usage Notes**](#usage-notes)
 - [**Support**](#support)
 
-|                 |                                                                                                                                                                           |
-| :-------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Repo            | [linea-io/Linea-Iconset](https://github.com/linea-io/Linea-Iconset)                                                                                                       |
+| :-------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Version**     | `v1.0.0` <sup>_Custom_</sup>                                                                                                                                              |
 | **Fonts**       | [TTF](https://raw.githubusercontent.com/iconicFonts/if/main/fonts/TTF/Linea.ttf) - [WOFF2](https://raw.githubusercontent.com/iconicFonts/if/main/fonts/WOFF2/Linea.woff2) |
 | **Icons**       | [SVGs](https://github.com/iconicFonts/if/tree/main/packs/Linea/svgs) <sup>_724_</sup>                                                                                     |

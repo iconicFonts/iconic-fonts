@@ -5,7 +5,7 @@
 - [**Support**](#support)
 
 | **Repo**        | [jpswalsh/academicons](https://github.com/jpswalsh/academicons)                                                                                                                 |
-| :-------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| :-------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Version**     | `v1.0.0` <sup>_Custom_</sup>                                                                                                                                                    |
 | **Fonts**       | [TTF](https://raw.githubusercontent.com/iconicFonts/if/main/fonts/TTF/Academia.ttf) - [WOFF2](https://raw.githubusercontent.com/iconicFonts/if/main/fonts/WOFF2/Academia.woff2) |
 | **Icons**       | [SVGs](https://github.com/iconicFonts/if/tree/main/packs/Academia/svgs) <sup>_149_</sup>                                                                                        |

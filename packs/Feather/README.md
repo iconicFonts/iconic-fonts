@@ -5,7 +5,7 @@
 - [**Support**](#support)
 
 | Repo            | [feathericons/feather](https://github.com/feathericons/feather)                                                                                                               |
-| :-------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| :-------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Version**     | `v1.0.0` <sup>_Custom_</sup>                                                                                                                                                  |
 | **Fonts**       | [TTF](https://raw.githubusercontent.com/iconicFonts/if/main/fonts/TTF/Feather.ttf) - [WOFF2](https://raw.githubusercontent.com/iconicFonts/if/main/fonts/WOFF2/Feather.woff2) |
 | **Icons**       | [SVGs](https://github.com/iconicFonts/if/tree/main/packs/Feather/svgs) <sup>_287_</sup>                                                                                       |

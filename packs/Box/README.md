@@ -5,7 +5,7 @@
 - [**Support**](#support)
 
 | Repo            | [atisawd/boxicons](https://github.com/atisawd/boxicons)                                                                                                               |
-| :-------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| :-------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Version**     | `v1.0.0` <sup>_Custom_</sup>                                                                                                                                          |
 | **Fonts**       | [TTF](https://raw.githubusercontent.com/iconicFonts/if/main/fonts/TTF/Box.ttf) - [WOFF2](https://raw.githubusercontent.com/iconicFonts/if/main/fonts/WOFF2/Box.woff2) |
 | **Icons**       | [SVGs](https://github.com/iconicFonts/if/tree/main/packs/Box/svgs) <sup>_1,479_</sup>                                                                                 |

@@ -5,7 +5,7 @@
 - [**Support**](#support)
 
 | Repo            | [Klarr-Agency/Circum-Icons](https://github.com/Klarr-Agency/Circum-Icons)                                                                                                   |
-| :-------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| :-------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Version**     | `v1.0.0` <sup>_Custom_</sup>                                                                                                                                                |
 | **Fonts**       | [TTF](https://raw.githubusercontent.com/iconicFonts/if/main/fonts/TTF/Circum.ttf) - [WOFF2](https://raw.githubusercontent.com/iconicFonts/if/main/fonts/WOFF2/Circum.woff2) |
 | **Icons**       | [SVGs](https://github.com/iconicFonts/if/tree/main/packs/Circum/svgs) <sup>_288_</sup>                                                                                      |

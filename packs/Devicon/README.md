@@ -5,7 +5,7 @@
 - [**Support**](#support)
 
 | Repo            | [devicons/devicon](https://github.com/devicons/devicon)                                                                                                                       |
-| :-------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| :-------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Version**     | `v1.0.0` <sup>_Custom_</sup>                                                                                                                                                  |
 | **Fonts**       | [TTF](https://raw.githubusercontent.com/iconicFonts/if/main/fonts/TTF/Devicon.ttf) - [WOFF2](https://raw.githubusercontent.com/iconicFonts/if/main/fonts/WOFF2/Devicon.woff2) |
 | **Icons**       | [SVGs](https://github.com/iconicFonts/if/tree/main/packs/Devicon/svgs) <sup>_819_</sup>                                                                                       |

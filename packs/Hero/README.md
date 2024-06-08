@@ -5,7 +5,7 @@
 - [**Support**](#support)
 
 | Repo            | [tailwindlabs/heroicons](https://github.com/tailwindlabs/heroicons)                                                                                                     |
-| :-------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| :-------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Version**     | `v1.0.0` <sup>_Custom_</sup>                                                                                                                                            |
 | **Fonts**       | [TTF](https://raw.githubusercontent.com/iconicFonts/if/main/fonts/TTF/Hero.ttf) - [WOFF2](https://raw.githubusercontent.com/iconicFonts/if/main/fonts/WOFF2/Hero.woff2) |
 | **Icons**       | [SVGs](https://github.com/iconicFonts/if/tree/main/packs/Hero/svgs) <sup>_592_</sup>                                                                                    |

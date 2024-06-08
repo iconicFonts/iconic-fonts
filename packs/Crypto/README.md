@@ -5,7 +5,7 @@
 - [**Support**](#support)
 
 | Repo            | [spothq/cryptocurrency-icons](https://github.com/spothq/cryptocurrency-icons)                                                                                               |
-| :-------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| :-------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Version**     | `v1.0.0` <sup>_Custom_</sup>                                                                                                                                                |
 | **Fonts**       | [TTF](https://raw.githubusercontent.com/iconicFonts/if/main/fonts/TTF/Crypto.ttf) - [WOFF2](https://raw.githubusercontent.com/iconicFonts/if/main/fonts/WOFF2/Crypto.woff2) |
 | **Icons**       | [SVGs](https://github.com/iconicFonts/if/tree/main/packs/Crypto/svgs) <sup>_483_</sup>                                                                                      |

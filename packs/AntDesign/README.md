@@ -5,7 +5,7 @@
 - [**Support**](#support)
 
 | Repo            | [ant-design/ant-design-icons](https://github.com/ant-design/ant-design-icons)                                                                                                     |
-| :-------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| :-------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Version**     | `v1.0.0` <sup>_Custom_</sup>                                                                                                                                                      |
 | **Fonts**       | [TTF](https://raw.githubusercontent.com/iconicFonts/if/main/fonts/TTF/AntDesign.ttf) - [WOFF2](https://raw.githubusercontent.com/iconicFonts/if/main/fonts/WOFF2/AntDesign.woff2) |
 | **Icons**       | [SVGs](https://github.com/iconicFonts/if/tree/main/packs/AntDesign/svgs) <sup>_672_</sup>                                                                                         |

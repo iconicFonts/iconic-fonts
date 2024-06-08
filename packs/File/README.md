@@ -5,7 +5,7 @@
 - [**Support**](#support)
 
 | Repo            | [file-icons/icons](https://github.com/file-icons/icons)                                                                                                                 |
-| :-------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| :-------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Version**     | `v1.0.0` <sup>_Custom_</sup>                                                                                                                                            |
 | **Fonts**       | [TTF](https://raw.githubusercontent.com/iconicFonts/if/main/fonts/TTF/File.ttf) - [WOFF2](https://raw.githubusercontent.com/iconicFonts/if/main/fonts/WOFF2/File.woff2) |
 | **Icons**       | [SVGs](https://github.com/iconicFonts/if/tree/main/packs/File/svgs) <sup>_931_</sup>                                                                                    |

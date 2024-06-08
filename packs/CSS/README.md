@@ -5,7 +5,7 @@
 - [**Support**](#support)
 
 | Repo            | [astrit/css.gg](https://github.com/astrit/css.gg)                                                                                                                     |
-| :-------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| :-------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Version**     | `v1.0.0` <sup>_Custom_</sup>                                                                                                                                          |
 | **Fonts**       | [TTF](https://raw.githubusercontent.com/iconicFonts/if/main/fonts/TTF/CSS.ttf) - [WOFF2](https://raw.githubusercontent.com/iconicFonts/if/main/fonts/WOFF2/CSS.woff2) |
 | **Icons**       | [SVGs](https://github.com/iconicFonts/if/tree/main/packs/CSS/svgs) <sup>_703_</sup>                                                                                   |

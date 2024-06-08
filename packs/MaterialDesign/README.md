@@ -4,9 +4,8 @@
 - [**Usage Notes**](#usage-notes)
 - [**Support**](#support)
 
-|                 |                                                                                                                                                                                             |
-| :-------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Repo            | [Templarian/MaterialDesign](https://github.com/Templarian/MaterialDesign)                                                                                                                   |
+| :-------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Version**     | `v1.0.0` <sup>_Custom_</sup>                                                                                                                                                                |
 | **Fonts**       | [TTF](https://raw.githubusercontent.com/iconicFonts/if/main/fonts/TTF/MaterialDesign.ttf) - [WOFF2](https://raw.githubusercontent.com/iconicFonts/if/main/fonts/WOFF2/MaterialDesign.woff2) |
 | **Icons**       | [SVGs](https://github.com/iconicFonts/if/tree/main/packs/MaterialDesign/svgs) <sup>_7,447_</sup>                                                                                            |

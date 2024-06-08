@@ -5,7 +5,7 @@
 - [**Support**](#support)
 
 | Repo            | [Lukas-W/font-logos](https://github.com/Lukas-W/font-logos)                                                                                                                   |
-| :-------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| :-------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Version**     | `v1.0.0` <sup>_Custom_</sup>                                                                                                                                                  |
 | **Fonts**       | [TTF](https://raw.githubusercontent.com/iconicFonts/if/main/fonts/TTF/Grommet.ttf) - [WOFF2](https://raw.githubusercontent.com/iconicFonts/if/main/fonts/WOFF2/Grommet.woff2) |
 | **Icons**       | [SVGs](https://github.com/iconicFonts/if/tree/main/packs/Grommet/svgs) <sup>_635_</sup>                                                                                       |

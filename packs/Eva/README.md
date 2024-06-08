@@ -5,7 +5,7 @@
 - [**Support**](#support)
 
 | Repo            | [akveo/eva-icons](https://github.com/akveo/eva-icons)                                                                                                                 |
-| :-------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| :-------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Version**     | `v1.0.0` <sup>_Custom_</sup>                                                                                                                                          |
 | **Fonts**       | [TTF](https://raw.githubusercontent.com/iconicFonts/if/main/fonts/TTF/Eva.ttf) - [WOFF2](https://raw.githubusercontent.com/iconicFonts/if/main/fonts/WOFF2/Eva.woff2) |
 | **Icons**       | [SVGs](https://github.com/iconicFonts/if/tree/main/packs/Eva/svgs) <sup>_489_</sup>                                                                                   |

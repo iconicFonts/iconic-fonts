@@ -5,7 +5,7 @@
 - [**Support**](#support)
 
 | Repo            | [microsoft/vscode-codicons](https://github.com/microsoft/vscode-codicons)                                                                                                       |
-| :-------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| :-------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Version**     | `v1.0.0` <sup>_Custom_</sup>                                                                                                                                                    |
 | **Fonts**       | [TTF](https://raw.githubusercontent.com/iconicFonts/if/main/fonts/TTF/Codicons.ttf) - [WOFF2](https://raw.githubusercontent.com/iconicFonts/if/main/fonts/WOFF2/Codicons.woff2) |
 | **Icons**       | [SVGs](https://github.com/iconicFonts/if/tree/main/packs/Codicons/svgs) <sup>_460_</sup>                                                                                        |
