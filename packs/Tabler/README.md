@@ -61,8 +61,8 @@ curl -o C:\Windows\Fonts\Tabler.ttf https://raw.githubusercontent.com/iconF5426i
 
 > [!NOTE]
 >
-> 1. **Tabler** font is standalone and has its own [codepoints](https://github.com/iconicFonts/if/blob/main/indices/Tabler.csv), which are different from those in the [IF](https://github.com/iconicFonts/if/blob/main/indices/if.csv) font[^1].
-> 2. **Tabler** icons are also similar to the [Feather](https://github.com/iconicFonts/if/edit/main/packs/Feather/README.md) and [Lucide](https://github.com/iconicFonts/if/edit/main/packs/Lucide/README.md) icons.
+> 1. The **Tabler** font is standalone and has its own [codepoints](https://github.com/iconicFonts/if/blob/main/indices), which are different from those in the [IF](https://github.com/iconicFonts/if/blob/main/indices/if.csv) font[^1].
+> 2. The **Tabler** icons are also similar to the [Feather](https://github.com/iconicFonts/if/edit/main/packs/Feather) and [Lucide](https://github.com/iconicFonts/if/edit/main/packs/Lucide/README.md) icons.
 
 > [!IMPORTANT]  
 > The [codepoints](https://github.com/iconicFonts/if/blob/main/indices/Tabler.csv) for the **Tabler** font remain unchanged and will not alter in the future, ensuring that you can use the font safely even when new versions are released.
