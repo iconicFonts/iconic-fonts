@@ -4,15 +4,15 @@
 - [**Usage Notes**](#usage-notes)
 - [**Support**](#support)
 
-| Repo            | [ant-design/ant-design-icons](https://github.com/ant-design/ant-design-icons)                                                                                                    |
-| :-------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Version**     | `v1.0.0` <sup>_Custom_</sup>                                                                                                                                                     |
-| **Fonts**       | [TTF](https://raw.githubusercontent.com/iconicFonts/if/main/fonts/TTF/AntDesign.ttf)- [WOFF2](https://raw.githubusercontent.com/iconicFonts/if/main/fonts/WOFF2/AntDesign.woff2) |
-| **Icons**       | [SVGs](https://github.com/iconicFonts/if/tree/main/packs/AntDesign/svgs) <sup>_672_</sup>                                                                                        |
-| **Index**       | [CSV](https://github.com/iconicFonts/if/blob/main/indices/AntDesign.csv)                                                                                                         |
-| **Codepoints**  | `U+E000..U+E29E` <sup>_Custom_</sup>                                                                                                                                             |
-| **Fontname**    | AntDesignIF                                                                                                                                                                      |
-| **Family Name** | AntDesign IF                                                                                                                                                                     |
+| Repo            | [ant-design/ant-design-icons](https://github.com/ant-design/ant-design-icons)                                                                                                     |
+| :-------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Version**     | `v1.0.0` <sup>_Custom_</sup>                                                                                                                                                      |
+| **Fonts**       | [TTF](https://raw.githubusercontent.com/iconicFonts/if/main/fonts/TTF/AntDesign.ttf) - [WOFF2](https://raw.githubusercontent.com/iconicFonts/if/main/fonts/WOFF2/AntDesign.woff2) |
+| **Icons**       | [SVGs](https://github.com/iconicFonts/if/tree/main/packs/AntDesign/svgs) <sup>_672_</sup>                                                                                         |
+| **Index**       | [CSV](https://github.com/iconicFonts/if/blob/main/indices/AntDesign.csv)                                                                                                          |
+| **Codepoints**  | `U+E000..U+E29E` <sup>_Custom_</sup>                                                                                                                                              |
+| **Fontname**    | AntDesignIF                                                                                                                                                                       |
+| **Family Name** | AntDesign IF                                                                                                                                                                      |
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iconicFonts/if/main/imgs/AntDesign_dark.png">
