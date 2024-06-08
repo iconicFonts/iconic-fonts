@@ -4,20 +4,19 @@
 - [**Usage Notes**](#usage-notes)
 - [**Support**](#support)
 
-|                 |                                                                                                                                                                                   |
-| --------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Repo**        | [jpswalsh/academicons](https://github.com/jpswalsh/academicons)                                                                                                                   |
-| **Version**     | `v1.0.0` <sup>_Custom_</sup>                                                                                                                                                      |
-| **Fonts**       | [TTF](https://raw.githubusercontent.com/iconicFonts/if/main/ifonts/TTF/Academia.ttf) - [WOFF2](https://raw.githubusercontent.com/iconicFonts/if/main/ifonts/WOFF2/Academia.woff2) |
-| **Icons**       | [SVGs](https://github.com/iconicFonts/if/tree/main/ipacks/Academia/svgs) <sup>_149_</sup>                                                                                         |
-| **Index**       | [CSV](https://github.com/iconicFonts/if/blob/main/indices/Academia.csv)                                                                                                           |
+|    **Repo**     | [jpswalsh/academicons](https://github.com/jpswalsh/academicons)                                                                                                                   |
+| :-------------: | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|   **Version**   | `v1.0.0` <sup>_Custom_</sup>                                                                                                                                                      |
+|    **Fonts**    | [TTF](https://raw.githubusercontent.com/iconicFonts/if/main/ifonts/TTF/Academia.ttf) - [WOFF2](https://raw.githubusercontent.com/iconicFonts/if/main/ifonts/WOFF2/Academia.woff2) |
+|    **Icons**    | [SVGs](https://github.com/iconicFonts/if/tree/main/ipacks/Academia/svgs) <sup>_149_</sup>                                                                                         |
+|    **Index**    | [CSV](https://github.com/iconicFonts/if/blob/main/indices/Academia.csv)                                                                                                           |
 | **Codepoints**  | `U+E000..U+E093` <sup>_Custom_</sup>                                                                                                                                              |
-| **Fontname**    | AcademiaIF                                                                                                                                                                        |
+|  **Fontname**   | AcademiaIF                                                                                                                                                                        |
 | **Family Name** | Academia IF                                                                                                                                                                       |
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iconicFonts/if/main/imgs/academia-dark.png">
-  <img alt="Academia icons preview" src="https://raw.githubusercontent.com/iconicFonts/if/main/imgs/academia-light.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iconicFonts/if/main/imgs/Academia_dark.png">
+  <img alt="Academia icons preview" src="https://raw.githubusercontent.com/iconicFonts/if/main/imgs/Academia_light.png">
 </picture>
 
 ## Installation
