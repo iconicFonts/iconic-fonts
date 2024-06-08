@@ -61,8 +61,8 @@ curl -o C:\Windows\Fonts\Feather.ttf https://raw.githubusercontent.com/iconicFon
 
 > [!NOTE]
 >
-> 1. **Feather** font is standalone and has its own [codepoints](https://github.com/iconicFonts/if/blob/main/indices/Feather.csv), which are different from those in the [IF](https://github.com/iconicFonts/if/blob/main/indices/if.csv) font[^1].
-> 2. **Feather** icons are also similar to the [Tabler](https://github.com/iconicFonts/if/edit/main/packs/Tabler/README.md) and [Lucide](https://github.com/iconicFonts/if/edit/main/packs/Lucide/README.md) icons.
+> 1. The **Feather** font is standalone and has its own [codepoints](https://github.com/iconicFonts/if/blob/main/indices/Feather.csv), which are different from those in the [IF](https://github.com/iconicFonts/if/blob/main/indices/if.csv) font[^1].
+> 2. The **Feather** icons are also similar to the [Tabler](https://github.com/iconicFonts/if/edit/main/packs/Tabler) and [Lucide](https://github.com/iconicFonts/if/edit/main/packs/Lucide) icons.
 
 > [!IMPORTANT]
 > The [codepoints](https://github.com/iconicFonts/if/blob/main/indices/Feather.csv) for the **Feather** font remain unchanged and will not alter in the future, ensuring that you can use the font safely even when new versions are released.
