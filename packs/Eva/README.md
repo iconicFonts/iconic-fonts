@@ -62,7 +62,7 @@ curl -o C:\Windows\Fonts\Eva.ttf https://raw.githubusercontent.com/iconicFonts/i
 > [!NOTE]
 >
 > 1. The suffixes of icons were adjusted from `-outline` to `-N`, where `N` represents a number, until a unique icon name was found.
-> 2. **Eva** font is standalone and has its own [codepoints](https://github.com/iconicFonts/if/blob/main/indices/Eva.csv), which are different from those in the [IF](https://github.com/iconicFonts/if/blob/main/indices/if.csv) font[^1].
+> 2. The **Eva** font is standalone and has its own [codepoints](https://github.com/iconicFonts/if/blob/main/indices/Eva.csv), which are different from those in the [IF](https://github.com/iconicFonts/if/blob/main/indices/if.csv) font[^1].
 
 > [!IMPORTANT]
 > The [codepoints](https://github.com/iconicFonts/if/blob/main/indices/Eva.csv) for the **Eva** font remain unchanged and will not alter in the future, ensuring that you can use the font safely even when new versions are released.
@@ -71,4 +71,4 @@ curl -o C:\Windows\Fonts\Eva.ttf https://raw.githubusercontent.com/iconicFonts/i
 
 If you've found this project helpful, a little love goes a long way. Give it a :star: or share it around.
 
-[^1]: The first glyph for the **Eva** font starts from codepoint `E000`, while for the **iPack** font, it starts from `F499A`.
+[^1]: The first glyph for the **Eva** font starts from codepoint `E000`, while for the [IF](https://github.com/iconicFonts/if/blob/main/indices/if.csv) font, it starts from `F499A`.

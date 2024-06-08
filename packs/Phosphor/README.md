@@ -64,13 +64,13 @@ curl -o C:\Windows\Fonts\Phosphor.ttf https://raw.githubusercontent.com/iconicFo
 > 1. The icon pack name, originally **Phosphor Logos**, was changed to **Phosphor**.
 > 2. Icons come with **Regular**, **Bold**, and **Fill** weights.
 > 3. The suffixes of icons were adjusted from `-square`, `fill`, and `-bold` to `-N`, where `N` represents a number, until a unique icon name was found.
-> 4. **Phosphor** font is standalone and has its own [codepoints](https://github.com/iconicFonts/if/blob/main/indices/Phosphor.csv), which are different from those in the [IF](https://github.com/iconicFonts/if/blob/main/indices/if.csv) font[^1].
+> 4. The **Phosphor** font is standalone and has its own [codepoints](https://github.com/iconicFonts/if/blob/main/indices/Phosphor.csv), which are different from those in the [IF](https://github.com/iconicFonts/if/blob/main/indices/if.csv) font[^1].
 
-> [!IMPORTANT]  
+> [!IMPORTANT]
 > The [codepoints](https://github.com/iconicFonts/if/blob/main/indices/Phosphor.csv) for the **Phosphor** font remain unchanged and will not alter in the future, ensuring that you can use the font safely even when new versions are released.
 
 ## Support
 
 If you've found this project helpful, a little love goes a long way. Give it a :star: or share it around.
 
-[^1]: The first glyph for the **Phosphor** font starts from codepoint `E000`, while for the **iPack** font, it starts from `F0CB1`.
+[^1]: The first glyph for the **Phosphor** font starts from codepoint `E000`, while for the [IF](https://github.com/iconicFonts/if/blob/main/indices/if.csv) font, it starts from `F0CB1`.

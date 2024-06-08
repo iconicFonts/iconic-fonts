@@ -62,11 +62,11 @@ curl -o C:\Windows\Fonts\SimpleLine.ttf https://raw.githubusercontent.com/iconic
 > [!NOTE]
 > The **SimpleLine** font is standalone and has its own [codepoints](https://github.com/iconicFonts/if/blob/main/indices/SimpleLine.csv), which are different from those in the [IF](https://github.com/iconicFonts/if/blob/main/indices/if.csv) font[^1].
 
-> [!IMPORTANT]  
+> [!IMPORTANT]
 > The [codepoints](https://github.com/iconicFonts/if/blob/main/indices/SimpleLine.csv) for the **SimpleLine** font remain unchanged and will not alter in the future, ensuring that you can use the font safely even when new versions are released.
 
 ## Support
 
 If you've found this project helpful, a little love goes a long way. Give it a :star: or share it around.
 
-[^1]: The first glyph for the **SimpleLine** font starts from codepoint `E000`, while for the **iPack** font, it starts from `F36D8`.
+[^1]: The first glyph for the **SimpleLine** font starts from codepoint `E000`, while for the [IF](https://github.com/iconicFonts/if/blob/main/indices/if.csv) font, it starts from `F36D8`.

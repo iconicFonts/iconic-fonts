@@ -62,7 +62,7 @@ curl -o C:\Windows\Fonts\Themify.ttf https://raw.githubusercontent.com/iconicFon
 > [!NOTE]
 > The **Themify** font is standalone and has its own [codepoints](https://github.com/iconicFonts/if/blob/main/indices/Themify.csv), which are different from those in the [IF](https://github.com/iconicFonts/if/blob/main/indices/if.csv) font[^1].
 
-> [!IMPORTANT]  
+> [!IMPORTANT]
 > The [codepoints](https://github.com/iconicFonts/if/blob/main/indices/Themify.csv) for the **Themify** font remain unchanged and will not alter in the future, ensuring that you can use the font safely even when new versions are released.
 
 ## Support

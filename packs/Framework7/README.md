@@ -62,13 +62,13 @@ curl -o C:\Windows\Fonts\Framework7.ttf https://raw.githubusercontent.com/iconic
 > [!NOTE]
 >
 > 1. The suffixes of icons were adjusted from `_square`, `_circle`, and `_fill` to `-N`, where `N` represents a number, until a unique icon name was found.
-> 2. **Framework7** font is standalone and has its own [codepoints](https://github.com/iconicFonts/if/blob/main/indices/Framework7.csv), which are different from those in the [IF](https://github.com/iconicFonts/if/blob/main/indices/if.csv) font[^1].
+> 2. The **Framework7** font is standalone and has its own [codepoints](https://github.com/iconicFonts/if/blob/main/indices/Framework7.csv), which are different from those in the [IF](https://github.com/iconicFonts/if/blob/main/indices/if.csv) font[^1].
 
-> [!IMPORTANT]  
+> [!IMPORTANT]
 > The [codepoints](https://github.com/iconicFonts/if/blob/main/indices/Framework7.csv) for the **Framework7** font remain unchanged and will not alter in the future, ensuring that you can use the font safely even when new versions are released.
 
 ## Support
 
 If you've found this project helpful, a little love goes a long way. Give it a :star: or share it around.
 
-[^1]: The first glyph for the **Framework7** font starts from codepoint `E000`, while for the **iPack** font, it starts from `F0000`.
+[^1]: The first glyph for the **Framework7** font starts from codepoint `E000`, while for the [IF](https://github.com/iconicFonts/if/blob/main/indices/if.csv) font, it starts from `F0000`.

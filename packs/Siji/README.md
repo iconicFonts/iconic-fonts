@@ -62,11 +62,11 @@ curl -o C:\Windows\Fonts\Siji.ttf https://raw.githubusercontent.com/iconicFonts/
 > [!NOTE]
 > The **Siji** font is standalone and has its own [codepoints](https://github.com/iconicFonts/if/blob/main/indices/Siji.csv), which are different from those in the [IF](https://github.com/iconicFonts/if/blob/main/indices/if.csv) font[^1].
 
-> [!IMPORTANT]  
+> [!IMPORTANT]
 > The [codepoints](https://github.com/iconicFonts/if/blob/main/indices/Siji.csv) for the **Siji** font remain unchanged and will not alter in the future, ensuring that you can use the font safely even when new versions are released.
 
 ## Support
 
 If you've found this project helpful, a little love goes a long way. Give it a :star: or share it around.
 
-[^1]: The first glyph for the **Siji** font starts from codepoint `E000`, while for the **iPack** font, it starts from `F1E2B`.
+[^1]: The first glyph for the **Siji** font starts from codepoint `E000`, while for the [IF](https://github.com/iconicFonts/if/blob/main/indices/if.csv) font, it starts from `F1E2B`.

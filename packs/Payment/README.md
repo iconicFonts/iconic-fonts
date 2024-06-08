@@ -63,13 +63,13 @@ curl -o C:\Windows\Fonts\Payment.ttf https://raw.githubusercontent.com/iconicFon
 >
 > 1. The icon pack name, originally **Payment Logos**, was changed to **Payment**.
 > 2. The suffixes of icons were adjusted from `-alt` to `-N`, where `N` represents a number, until a unique icon name was found.
-> 3. **Payment** font is standalone and has its own [codepoints](https://github.com/iconicFonts/if/blob/main/indices/Payment.csv), which are different from those in the [IF](https://github.com/iconicFonts/if/blob/main/indices/if.csv) font[^1].
+> 3. The **Payment** font is standalone and has its own [codepoints](https://github.com/iconicFonts/if/blob/main/indices/Payment.csv), which are different from those in the [IF](https://github.com/iconicFonts/if/blob/main/indices/if.csv) font[^1].
 
-> [!IMPORTANT]  
+> [!IMPORTANT]
 > The [codepoints](https://github.com/iconicFonts/if/blob/main/indices/Payment.csv) for the **Payment** font remain unchanged and will not alter in the future, ensuring that you can use the font safely even when new versions are released.
 
 ## Support
 
 If you've found this project helpful, a little love goes a long way. Give it a :star: or share it around.
 
-[^1]: The first glyph for the **Payment** font starts from codepoint `E000`, while for the **iPack** font, it starts from `F53CD`.
+[^1]: The first glyph for the **Payment** font starts from codepoint `E000`, while for the [IF](https://github.com/iconicFonts/if/blob/main/indices/if.csv) font, it starts from `F53CD`.

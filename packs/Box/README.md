@@ -62,7 +62,7 @@ curl -o C:\Windows\Fonts\Box.ttf https://raw.githubusercontent.com/iconicFonts/i
 > [!NOTE]
 >
 > 1. The prefixes `bx-`, `bxs-`, and `bxl-` were removed and replaced with the suffix `-N`, where `N` represents a number, until a unique icon name was found.
-> 2. **Box** font is standalone and has its own [codepoints](https://github.com/iconicFonts/if/blob/main/indices/Box.csv), which are different from those in the [IF](https://github.com/iconicFonts/if/blob/main/indices/if.csv) font[^1].
+> 2. The **Box** font is standalone and has its own [codepoints](https://github.com/iconicFonts/if/blob/main/indices/Box.csv), which are different from those in the [IF](https://github.com/iconicFonts/if/blob/main/indices/if.csv) font[^1].
 
 > [!IMPORTANT]
 > The [codepoints](https://github.com/iconicFonts/if/blob/main/indices/Box.csv) for the **Box** font remain unchanged and will not alter in the future, ensuring that you can use the font safely even when new versions are released.
@@ -71,4 +71,4 @@ curl -o C:\Windows\Fonts\Box.ttf https://raw.githubusercontent.com/iconicFonts/i
 
 If you've found this project helpful, a little love goes a long way. Give it a :star: or share it around.
 
-[^1]: The first glyph for the **Box** font starts from codepoint `E000`, while for the **iPack** font, it starts from `F98D7`.
+[^1]: The first glyph for the **Box** font starts from codepoint `E000`, while for the [IF](https://github.com/iconicFonts/if/blob/main/indices/if.csv) font, it starts from `F98D7`.

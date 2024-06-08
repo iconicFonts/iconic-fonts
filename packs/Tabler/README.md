@@ -64,11 +64,11 @@ curl -o C:\Windows\Fonts\Tabler.ttf https://raw.githubusercontent.com/iconF5426i
 > 1. The **Tabler** font is standalone and has its own [codepoints](https://github.com/iconicFonts/if/blob/main/indices/Tabler.csv), which are different from those in the [IF](https://github.com/iconicFonts/if/blob/main/indices/if.csv) font[^1].
 > 2. The **Tabler** icons are also similar to the [Feather](https://github.com/iconicFonts/if/edit/main/packs/Feather) and [Lucide](https://github.com/iconicFonts/if/edit/main/packs/Lucide) icons.
 
-> [!IMPORTANT]  
+> [!IMPORTANT]
 > The [codepoints](https://github.com/iconicFonts/if/blob/main/indices/Tabler.csv) for the **Tabler** font remain unchanged and will not alter in the future, ensuring that you can use the font safely even when new versions are released.
 
 ## Support
 
 If you've found this project helpful, a little love goes a long way. Give it a :star: or share it around.
 
-[^1]: The first glyph for the **Tabler** font starts from codepoint `E000`, while for the **iPack** font, it starts from `F5426`.
+[^1]: The first glyph for the **Tabler** font starts from codepoint `E000`, while for the [IF](https://github.com/iconicFonts/if/blob/main/indices/if.csv) font, it starts from `F5426`.

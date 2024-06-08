@@ -59,8 +59,8 @@ curl -o C:\Windows\Fonts\Codicons.ttf https://raw.githubusercontent.com/iconicFo
 
 ## Usage Notes
 
-> [!NOTE]  
-> **Codicons** font is standalone and has its own [codepoints](https://github.com/iconicFonts/if/blob/main/indices/Codicons.csv), which are different from those in the [IF](https://github.com/iconicFonts/if/blob/main/indices/if.csv) font[^1].
+> [!NOTE]
+> The **Codicons** font is standalone and has its own [codepoints](https://github.com/iconicFonts/if/blob/main/indices/Codicons.csv), which are different from those in the [IF](https://github.com/iconicFonts/if/blob/main/indices/if.csv) font[^1].
 
 > [!IMPORTANT]
 > The [codepoints](https://github.com/iconicFonts/if/blob/main/indices/Codicons.csv) for the **Codicons** font remain unchanged and will not alter in the future, ensuring that you can use the font safely even when new versions are released.
@@ -69,4 +69,4 @@ curl -o C:\Windows\Fonts\Codicons.ttf https://raw.githubusercontent.com/iconicFo
 
 If you've found this project helpful, a little love goes a long way. Give it a :star: or share it around.
 
-[^1]: The first glyph for the **Codicons** font starts from codepoint `E000`, while for the **iPack** font, it starts from `F04B6`.
+[^1]: The first glyph for the **Codicons** font starts from codepoint `E000`, while for the [IF](https://github.com/iconicFonts/if/blob/main/indices/if.csv) font, it starts from `F04B6`.

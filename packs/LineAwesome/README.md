@@ -61,14 +61,14 @@ curl -o C:\Windows\Fonts\LineAwesome.ttf https://raw.githubusercontent.com/iconi
 
 > [!NOTE]
 >
-> 1.  The suffix `-solid` was removed and replaced with the suffix `-N`, where `N` represents a number, until a unique icon name was found.
-> 2.  **LineAwesome** font is standalone and has its own [codepoints](https://github.com/iconicFonts/if/blob/main/indices/LineAwesome.csv), which are different from those in the [IF](https://github.com/iconicFonts/if/blob/main/indices/if.csv) font[^1].
+> 1. The suffix `-solid` was removed and replaced with the suffix `-N`, where `N` represents a number, until a unique icon name was found.
+> 2. The **LineAwesome** font is standalone and has its own [codepoints](https://github.com/iconicFonts/if/blob/main/indices/LineAwesome.csv), which are different from those in the [IF](https://github.com/iconicFonts/if/blob/main/indices/if.csv) font[^1].
 
-> [!IMPORTANT]  
+> [!IMPORTANT]
 > The [codepoints](https://github.com/iconicFonts/if/blob/main/indices/LineAwesome.csv) for the **LineAwesome** font remain unchanged and will not alter in the future, ensuring that you can use the font safely even when new versions are released.
 
 ## Support
 
 If you've found this project helpful, a little love goes a long way. Give it a :star: or share it around.
 
-[^1]: The first glyph for the **LineAwesome** font starts from codepoint `E000`, while for the **iPack** font, it starts from `F6DE7`.
+[^1]: The first glyph for the **LineAwesome** font starts from codepoint `E000`, while for the [IF](https://github.com/iconicFonts/if/blob/main/indices/if.csv) font, it starts from `F6DE7`.

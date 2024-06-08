@@ -56,8 +56,8 @@ curl -o C:\Windows\Fonts\Devicon.ttf https://raw.githubusercontent.com/iconicFon
 
 ## Usage Notes
 
-> [!NOTE]  
-> **Devicon** font is standalone and has its own [codepoints](https://github.com/iconicFonts/if/blob/main/indices/Devicon.csv), which are different from those in the [IF](https://github.com/iconicFonts/if/blob/main/indices/if.csv) font[^1].
+> [!NOTE]
+> The **Devicon** font is standalone and has its own [codepoints](https://github.com/iconicFonts/if/blob/main/indices/Devicon.csv), which are different from those in the [IF](https://github.com/iconicFonts/if/blob/main/indices/if.csv) font[^1].
 
 > [!IMPORTANT]
 > The [codepoints](https://github.com/iconicFonts/if/blob/main/indices/Devicon.csv) for the **Devicon** font remain unchanged and will not alter in the future, ensuring that you can use the font safely even when new versions are released.
@@ -66,4 +66,4 @@ curl -o C:\Windows\Fonts\Devicon.ttf https://raw.githubusercontent.com/iconicFon
 
 If you've found this project helpful, a little love goes a long way. Give it a :star: or share it around.
 
-[^1]: The first glyph for the **Devicon** font starts from codepoint `E000`, while for the **iPack** font, it starts from `F3A69`.
+[^1]: The first glyph for the **Devicon** font starts from codepoint `E000`, while for the [IF](https://github.com/iconicFonts/if/blob/main/indices/if.csv) font, it starts from `F3A69`.

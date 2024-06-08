@@ -72,4 +72,4 @@ curl -o C:\Windows\Fonts\CoreUi.ttf https://raw.githubusercontent.com/iconicFont
 
 If you've found this project helpful, a little love goes a long way. Give it a :star: or share it around.
 
-[^1]: The first glyph for the **CoreUi** font starts from codepoint `E000`, while for the **iPack** font, it starts from `F4E63`.
+[^1]: The first glyph for the **CoreUi** font starts from codepoint `E000`, while for the [IF](https://github.com/iconicFonts/if/blob/main/indices/if.csv) font, it starts from `F4E63`.

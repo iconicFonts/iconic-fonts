@@ -62,7 +62,7 @@ curl -o C:\Windows\Fonts\CSS.ttf https://raw.githubusercontent.com/iconicFonts/i
 > [!NOTE]
 >
 > 1. The icon pack name, originally **css.gg**, was changed to **CSS**.
-> 2. **CSS** font is standalone and has its own [codepoints](https://github.com/iconicFonts/if/blob/main/indices/CSS.csv), which are different from those in the [IF](https://github.com/iconicFonts/if/blob/main/indices/if.csv) font[^1].
+> 2. The **CSS** font is standalone and has its own [codepoints](https://github.com/iconicFonts/if/blob/main/indices/CSS.csv), which are different from those in the [IF](https://github.com/iconicFonts/if/blob/main/indices/if.csv) font[^1].
 
 > [!IMPORTANT]
 > The [codepoints](https://github.com/iconicFonts/if/blob/main/indices/CSS.csv) for the **CSS** font remain unchanged and will not alter in the future, ensuring that you can use the font safely even when new versions are released.
@@ -71,4 +71,4 @@ curl -o C:\Windows\Fonts\CSS.ttf https://raw.githubusercontent.com/iconicFonts/i
 
 If you've found this project helpful, a little love goes a long way. Give it a :star: or share it around.
 
-[^1]: The first glyph for the **CSS** font starts from codepoint `E000`, while for the **iPack** font, it starts from `F95A2`.
+[^1]: The first glyph for the **CSS** font starts from codepoint `E000`, while for the [IF](https://github.com/iconicFonts/if/blob/main/indices/if.csv) font, it starts from `F95A2`.

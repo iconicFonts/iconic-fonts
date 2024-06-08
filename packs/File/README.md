@@ -62,7 +62,7 @@ curl -o C:\Windows\Fonts\File.ttf https://raw.githubusercontent.com/iconicFonts/
 > [!NOTE]
 >
 > 1. The suffixes of icons were adjusted from `-Alt[N]` to `-N`, where `N` represents a number, until a unique icon name was found.
-> 2. **File** font is standalone and has its own [codepoints](https://github.com/iconicFonts/if/blob/main/indices/File.csv), which are different from those in the [IF](https://github.com/iconicFonts/if/blob/main/indices/if.csv) font[^1].
+> 2. The **File** font is standalone and has its own [codepoints](https://github.com/iconicFonts/if/blob/main/indices/File.csv), which are different from those in the [IF](https://github.com/iconicFonts/if/blob/main/indices/if.csv) font[^1].
 
 > [!IMPORTANT]
 > The [codepoints](https://github.com/iconicFonts/if/blob/main/indices/File.csv) for the **File** font remain unchanged and will not alter in the future, ensuring that you can use the font safely even when new versions are released.
@@ -71,4 +71,4 @@ curl -o C:\Windows\Fonts\File.ttf https://raw.githubusercontent.com/iconicFonts/
 
 If you've found this project helpful, a little love goes a long way. Give it a :star: or share it around.
 
-[^1]: The first glyph for the **File** font starts from codepoint `E000`, while for the **iPack** font, it starts from `F9E9E`.
+[^1]: The first glyph for the **File** font starts from codepoint `E000`, while for the [IF](https://github.com/iconicFonts/if/blob/main/indices/if.csv) font, it starts from `F9E9E`.

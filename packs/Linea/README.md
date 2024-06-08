@@ -63,13 +63,13 @@ curl -o C:\Windows\Fonts\Linea.ttf https://raw.githubusercontent.com/iconicFonts
 >
 > 1. The icon pack name, originally **Linea Iconset**, was changed to **Linea**.
 > 2. The prefix `basic-`, was removed from icon names.
-> 3. **Linea** font is standalone and has its own [codepoints](https://github.com/iconicFonts/if/blob/main/indices/Linea.csv), which are different from those in the [IF](https://github.com/iconicFonts/if/blob/main/indices/if.csv) font[^1].
+> 3. The **Linea** font is standalone and has its own [codepoints](https://github.com/iconicFonts/if/blob/main/indices/Linea.csv), which are different from those in the [IF](https://github.com/iconicFonts/if/blob/main/indices/if.csv) font[^1].
 
-> [!IMPORTANT]  
+> [!IMPORTANT]
 > The [codepoints](https://github.com/iconicFonts/if/blob/main/indices/Linea.csv) for the **Linea** font remain unchanged and will not alter in the future, ensuring that you can use the font safely even when new versions are released.
 
 ## Support
 
 If you've found this project helpful, a little love goes a long way. Give it a :star: or share it around.
 
-[^1]: The first glyph for the **Linea** font starts from codepoint `E000`, while for the **iPack** font, it starts from `F3795`.
+[^1]: The first glyph for the **Linea** font starts from codepoint `E000`, while for the [IF](https://github.com/iconicFonts/if/blob/main/indices/if.csv) font, it starts from `F3795`.

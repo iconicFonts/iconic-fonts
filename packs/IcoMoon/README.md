@@ -63,13 +63,13 @@ curl -o C:\Windows\Fonts\IcoMoon.ttf https://raw.githubusercontent.com/iconicFon
 >
 > 1. The icon pack name, originally **IcoMoon-Free**, was changed to **IcoMoon**.
 > 2. The `N-` prefix and the `N` suffix in icon names were changed to the suffix `-N`, where `N` represents a number, until a unique icon name was found.
-> 3. **IcoMoon** font is standalone and has its own [codepoints](https://github.com/iconicFonts/if/blob/main/indices/IcoMoon.csv), which are different from those in the [IF](https://github.com/iconicFonts/if/blob/main/indices/if.csv) font[^1].
+> 3. The **IcoMoon** font is standalone and has its own [codepoints](https://github.com/iconicFonts/if/blob/main/indices/IcoMoon.csv), which are different from those in the [IF](https://github.com/iconicFonts/if/blob/main/indices/if.csv) font[^1].
 
-> [!IMPORTANT]  
+> [!IMPORTANT]
 > The [codepoints](https://github.com/iconicFonts/if/blob/main/indices/IcoMoon.csv) for the **IcoMoon** font remain unchanged and will not alter in the future, ensuring that you can use the font safely even when new versions are released.
 
 ## Support
 
 If you've found this project helpful, a little love goes a long way. Give it a :star: or share it around.
 
-[^1]: The first glyph for the **IcoMoon** font starts from codepoint `E000`, while for the **iPack** font, it starts from `F20A2`.
+[^1]: The first glyph for the **IcoMoon** font starts from codepoint `E000`, while for the [IF](https://github.com/iconicFonts/if/blob/main/indices/if.csv) font, it starts from `F20A2`.

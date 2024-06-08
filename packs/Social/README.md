@@ -63,7 +63,7 @@ curl -o C:\Windows\Fonts\Social.ttf https://raw.githubusercontent.com/iconicFont
 >
 > 1. The icon pack name, originally **Free-Social-Icons**, was changed to **Social**.
 > 2. Icons come without [flat style](https://github.com/neilorangepeel/Free-Social-Icons/tree/master/Flat/SVG).
-> 3. **Social** font is standalone and has its own [codepoints](https://github.com/iconicFonts/if/blob/main/indices/Social.csv), which are different from those in the [IF](https://github.com/iconicFonts/if/blob/main/indices/if.csv) font[^1].
+> 3. The **Social** font is standalone and has its own [codepoints](https://github.com/iconicFonts/if/blob/main/indices/Social.csv), which are different from those in the [IF](https://github.com/iconicFonts/if/blob/main/indices/if.csv) font[^1].
 
 > [!IMPORTANT]
 > The [codepoints](https://github.com/iconicFonts/if/blob/main/indices/Social.csv) for the **Social** font remain unchanged and will not alter in the future, ensuring that you can use the font safely even when new versions are released.
@@ -72,4 +72,4 @@ curl -o C:\Windows\Fonts\Social.ttf https://raw.githubusercontent.com/iconicFont
 
 If you've found this project helpful, a little love goes a long way. Give it a :star: or share it around.
 
-[^1]: The first glyph for the **Social** font starts from codepoint `E000`, while for the **iPack** font, it starts from `F5403`.
+[^1]: The first glyph for the **Social** font starts from codepoint `E000`, while for the [IF](https://github.com/iconicFonts/if/blob/main/indices/if.csv) font, it starts from `F5403`.

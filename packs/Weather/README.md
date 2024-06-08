@@ -71,4 +71,4 @@ curl -o C:\Windows\Fonts\Weather.ttf https://raw.githubusercontent.com/iconicFon
 
 If you've found this project helpful, a little love goes a long way. Give it a :star: or share it around.
 
-[^1]: The first glyph for the **Weather** font starts from codepoint `E000`, while for the **iPack** font, it starts from `FC100`.
+[^1]: The first glyph for the **Weather** font starts from codepoint `E000`, while for the [IF](https://github.com/iconicFonts/if/blob/main/indices/if.csv) font, it starts from `FC100`.

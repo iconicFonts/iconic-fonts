@@ -4,7 +4,7 @@
 - [**Usage Notes**](#usage-notes)
 - [**Support**](#support)
 
-| **Repo**        | [jpswalsh/academicons](https://github.com/jpswalsh/academicons)                                                                                                                 |
+| Repo            | [jpswalsh/academicons](https://github.com/jpswalsh/academicons)                                                                                                                 |
 | :-------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Version**     | `v1.0.0` <sup>_Custom_</sup>                                                                                                                                                    |
 | **Fonts**       | [TTF](https://raw.githubusercontent.com/iconicFonts/if/main/fonts/TTF/Academia.ttf) - [WOFF2](https://raw.githubusercontent.com/iconicFonts/if/main/fonts/WOFF2/Academia.woff2) |
@@ -65,7 +65,7 @@ curl -o C:\Windows\Fonts\Academia.ttf https://raw.githubusercontent.com/iconicFo
 > 2. The suffixes of icons were adjusted from `-square` to `-N`, where `N` represents a number, until a unique icon name was found.
 > 3. The **Academia** font is standalone and has its own [codepoints](https://github.com/iconicFonts/if/blob/main/indices/Academia.csv), which are different from those in the [IF](https://github.com/iconicFonts/if/blob/main/indices/if.csv) font[^1].
 
-> [!IMPORTANT]  
+> [!IMPORTANT]
 > The [codepoints](https://github.com/iconicFonts/if/blob/main/indices/Academia.csv) for the **Academia** font remain unchanged and will not alter in the future, ensuring that you can use the font safely even when new versions are released.
 
 ## Support

@@ -63,13 +63,13 @@ curl -o C:\Windows\Fonts\Octicons.ttf https://raw.githubusercontent.com/iconicFo
 >
 > 1. The icon pack name, originally **Font Octicons**, was changed to **Octicons**.
 > 2. The suffixes of icons were adjusted from `-fill` to `-N`, where `N` represents a number, until a unique icon name was found.
->    3 **Octicons** font is standalone and has its own [codepoints](https://github.com/iconicFonts/if/blob/main/indices/Octicons.csv), which are different from those in the [IF](https://github.com/iconicFonts/if/blob/main/indices/if.csv) font[^1].
+> 3. The **Octicons** font is standalone and has its own [codepoints](https://github.com/iconicFonts/if/blob/main/indices/Octicons.csv), which are different from those in the [IF](https://github.com/iconicFonts/if/blob/main/indices/if.csv) font[^1].
 
-> [!IMPORTANT]  
+> [!IMPORTANT]
 > The [codepoints](https://github.com/iconicFonts/if/blob/main/indices/Octicons.csv) for the **Octicons** font remain unchanged and will not alter in the future, ensuring that you can use the font safely even when new versions are released.
 
 ## Support
 
 If you've found this project helpful, a little love goes a long way. Give it a :star: or share it around.
 
-[^1]: The first glyph for the **Octicons** font starts from codepoint `E000`, while for the **iPack** font, it starts from `F228D`.
+[^1]: The first glyph for the **Octicons** font starts from codepoint `E000`, while for the [IF](https://github.com/iconicFonts/if/blob/main/indices/if.csv) font, it starts from `F228D`.
