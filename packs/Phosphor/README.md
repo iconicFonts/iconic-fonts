@@ -22,7 +22,7 @@
 ## Installation
 
 <details>
-F0CB1
+
 <summary>Linux</summary>
 
 ```sh
