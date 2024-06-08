@@ -4,15 +4,15 @@
 - [**Usage Notes**](#usage-notes)
 - [**Support**](#support)
 
-|    **Repo**     | [jpswalsh/academicons](https://github.com/jpswalsh/academicons)                                                                                                                   |
-| :-------------: | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|   **Version**   | `v1.0.0` <sup>_Custom_</sup>                                                                                                                                                      |
-|    **Fonts**    | [TTF](https://raw.githubusercontent.com/iconicFonts/if/main/ifonts/TTF/Academia.ttf) - [WOFF2](https://raw.githubusercontent.com/iconicFonts/if/main/ifonts/WOFF2/Academia.woff2) |
-|    **Icons**    | [SVGs](https://github.com/iconicFonts/if/tree/main/ipacks/Academia/svgs) <sup>_149_</sup>                                                                                         |
-|    **Index**    | [CSV](https://github.com/iconicFonts/if/blob/main/indices/Academia.csv)                                                                                                           |
-| **Codepoints**  | `U+E000..U+E093` <sup>_Custom_</sup>                                                                                                                                              |
-|  **Fontname**   | AcademiaIF                                                                                                                                                                        |
-| **Family Name** | Academia IF                                                                                                                                                                       |
+|    **Repo**     | [jpswalsh/academicons](https://github.com/jpswalsh/academicons)                                                                                                                 |
+| :-------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|   **Version**   | `v1.0.0` <sup>_Custom_</sup>                                                                                                                                                    |
+|    **Fonts**    | [TTF](https://raw.githubusercontent.com/iconicFonts/if/main/fonts/TTF/Academia.ttf) - [WOFF2](https://raw.githubusercontent.com/iconicFonts/if/main/fonts/WOFF2/Academia.woff2) |
+|    **Icons**    | [SVGs](https://github.com/iconicFonts/if/tree/main/packs/Academia/svgs) <sup>_149_</sup>                                                                                        |
+|    **Index**    | [CSV](https://github.com/iconicFonts/if/blob/main/indices/Academia.csv)                                                                                                         |
+| **Codepoints**  | `U+E000..U+E093` <sup>_Custom_</sup>                                                                                                                                            |
+|  **Fontname**   | AcademiaIF                                                                                                                                                                      |
+| **Family Name** | Academia IF                                                                                                                                                                     |
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iconicFonts/if/main/imgs/Academia_dark.png">
@@ -26,7 +26,7 @@
 <summary>Linux</summary>
 
 ```sh
-curl -o ~/.local/share/fonts/Academia.ttf https://raw.githubusercontent.com/iconicFonts/if/main/ifonts/TTF/Academia.ttf
+curl -o ~/.local/share/fonts/Academia.ttf https://raw.githubusercontent.com/iconicFonts/if/main/fonts/TTF/Academia.ttf
 ```
 
 Refresh font cache:
@@ -42,7 +42,7 @@ fc-cache -f ~/.local/share/fonts
 <summary>macOS</summary>
 
 ```sh
-curl -o ~/Library/Fonts/Academia.ttf https://raw.githubusercontent.com/iconicFonts/if/main/ifonts/TTF/Academia.ttf
+curl -o ~/Library/Fonts/Academia.ttf https://raw.githubusercontent.com/iconicFonts/if/main/fonts/TTF/Academia.ttf
 ```
 
 </details>
@@ -52,7 +52,7 @@ curl -o ~/Library/Fonts/Academia.ttf https://raw.githubusercontent.com/iconicFon
 <summary>Windows</summary>
 
 ```sh
-curl -o C:\Windows\Fonts\Academia.ttf https://raw.githubusercontent.com/iconicFonts/if/main/ifonts/TTF/Academia.ttf
+curl -o C:\Windows\Fonts\Academia.ttf https://raw.githubusercontent.com/iconicFonts/if/main/fonts/TTF/Academia.ttf
 ```
 
 </details>
