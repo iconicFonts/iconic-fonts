@@ -4,6 +4,11 @@
 
 **Iconic Fonts (IF)** offers over **55,000** icons collected from **43** different icon sets. These icons are available either as a single iconic font or as separate fonts based on the icon set.
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iconicFonts/if/main/imgs/if-preview_dark.png">
+  <img alt="Academia icons preview" src="https://raw.githubusercontent.com/iconicFonts/if/main/imgs/if-preview_light.png">
+</picture>
+
 > [!NOTE]
 > This project is still under development.
 
