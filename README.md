@@ -121,7 +121,7 @@ Searching for glyphs using [FZF](https://junegunn.github.io/fzf/) is a breeze. J
 
 ```sh
 column -t -s ',' -o $'\t' packName.csv |
-fzf -d='\t' --with-nth=1,2 --header-lines=1 \
+fzf -d '\t' --with-nth=1,2 --header-lines=1 \
 --bind 'enter:close+execute(echo {1})'
 ```
 
