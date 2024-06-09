@@ -4,7 +4,7 @@
 - [**Usage Notes**](#usage-notes)
 - [**Support**](#support)
 
-| Repo            | [Lukas-W/font-logos]([https://github.com/Lukas-W/font-logos](https://github.com/grommet/grommet-icons))                                                                       |
+| Repo            | [Lukas-W/font-logos](https://github.com/grommet/grommet-icons)                                                                       |
 | :-------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Version**     | `v1.0.0` <sup>_Custom_</sup>                                                                                                                                                  |
 | **Fonts**       | [TTF](https://raw.githubusercontent.com/iconicFonts/if/main/fonts/TTF/Grommet.ttf) - [WOFF2](https://raw.githubusercontent.com/iconicFonts/if/main/fonts/WOFF2/Grommet.woff2) |
