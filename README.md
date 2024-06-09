@@ -19,7 +19,7 @@
 
 ### Manual Installation
 
-To manually install a pack, download its font individually from the supported packs, or download the IF font that includes all icon packs. After downloading the font(s), copy them to:
+To manually install a pack, download its font individually from the supported packs, or download the [IF](https://raw.githubusercontent.com/iconicFonts/if/main/fonts/TTF/if.ttf) font that includes all icon packs. After downloading the font(s), copy them to:
 
 - **Linux:** `~/.local/share/fonts`
 - **macOS:** `~/Library/Fonts/`
