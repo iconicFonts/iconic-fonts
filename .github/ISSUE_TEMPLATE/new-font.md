@@ -1,25 +1,21 @@
 ---
 name: New Font
 about: Request to add a new patched font.
-title: "[FR]"
+title: ''
 labels: new-font
 assignees: ''
 
 ---
 
-### New Patched Font Request
+## New Patched Font Request
 
-**Font Name:**
-<!-- Enter the name of the font here  -->
-
-
-**Link to Font:**
+### Link to Font
 <!-- Provide a link to the font's page -->
 
 
-**Reason for Addition:**
+### Reason for Addition
  <!-- Explain why this font should be added -->
 
 
-**Additional Information:**
+### Additional Information
  <!-- Add any other relevant information here -->
