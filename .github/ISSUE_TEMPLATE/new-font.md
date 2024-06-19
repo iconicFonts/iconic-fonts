@@ -1,5 +1,5 @@
 ---
-name: New font template
+name: New Font
 about: Request to add a new patched font.
 title: "[FR]"
 labels: new-font

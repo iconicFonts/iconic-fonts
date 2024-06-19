@@ -1,7 +1,7 @@
 ---
-name: Icon Pack template
+name: New Icon Pack
 about: Request to add a new icon pack.
-title: ''
+title: "[FR]"
 labels: new-icon-pack
 assignees: ''
 
