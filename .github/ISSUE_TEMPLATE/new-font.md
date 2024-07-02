@@ -2,7 +2,7 @@
 name: New Font
 about: Request to add a new patched font.
 title: ''
-labels: new-font
+labels: new font
 assignees: ''
 
 ---

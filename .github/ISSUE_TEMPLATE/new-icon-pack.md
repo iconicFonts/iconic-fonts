@@ -2,7 +2,7 @@
 name: New Icon Pack
 about: Request to add a new icon pack.
 title: ''
-labels: ''
+labels: new icon pack
 assignees: ''
 
 ---
