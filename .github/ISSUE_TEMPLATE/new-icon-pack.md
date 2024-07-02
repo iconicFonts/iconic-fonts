@@ -1,5 +1,5 @@
 ---
-name: New Icon Pack
+name: New icon pack
 about: Request to add a new icon pack.
 title: ''
 labels: new pack
@@ -7,13 +7,11 @@ assignees: ''
 
 ---
 
-## New Icon Pack Request
-
-### Link to Icon Pack
+**Link to Icon Pack**
 <!-- Provide a link to the icon pack's page -->
 
-### Reason for Addition
+**Reason for Addition**
 <!-- Explain why this icon pack should be added -->
 
-### Additional Information
+**Additional Information**
 <!-- Add any other relevant information here -->
