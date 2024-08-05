@@ -1,0 +1,1 @@
+Weather Icons licensed under [SIL OFL 1.1](http://scripts.sil.org/OFL)
