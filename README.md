@@ -50,7 +50,7 @@ Here is a list of all all patched fonts that we support.
 
 <!-- prettier-ignore-start -->
 
-| Font Name                                                  | Font Repo/Website                            | Version   | Preview                                                      | Download                                                                     |
+| Font Name                                                  | Repo/Website                                 | Version   | Preview                                                      | Download                                                                     |
 | ---------------------------------------------------------- | -------------------------------------------- | --------- | ------------------------------------------------------------ | :--------------------------------------------------------------------------: |
 | [0xProto IF][if-0xproto]                                   | [0xProto][0xproto]                           | `2.100`   | [0xProto][preview-0xproto]                                   | [ZIP][zip-0xproto]                  - [TAR.GZ][tar-0xproto]                  |
 | [Anonymous Pro IF][if-anonymous-pro]                       | [Anonymous Pro][anonymous-pro]               | `1.002`   | [Anonymous Pro][preview-anonymous-pro]                       | [ZIP][zip-anonymous-pro]            - [TAR.GZ][tar-anonymous-pro]            |
@@ -86,11 +86,11 @@ Here is a list of all all patched fonts that we support.
 | [Lilex IF][if-lilex]                                       | [Lilex][lilex]                               | `2.530`   | [Lilex][preview-lilex]                                       | [ZIP][zip-lilex]                    - [TAR.GZ][tar-lilex]                    |
 | [Maple Mono IF][if-maple-mono]                             | [Maple Mono][maple-mono]                     | `6.4`     | [Maple Mono][preview-maple-mono]                             | [ZIP][zip-maple-mono]               - [TAR.GZ][tar-maple-mono]               |
 | [Martian Mono IF][if-martian-mono]                         | [Martian Mono][martian-mono]                 | `1.0.0`   | [Martian Mono][preview-martian-mono]                         | [ZIP][zip-martian-mono]             - [TAR.GZ][tar-martian-mono]             |
-| [Monaspace Argon IF][if-monaspaceargon]                    | [Monaspace][monaspace-argon]                 | `1.101`   | [MonaspaceArgon][preview-monaspaceargon]                     | [ZIP][zip-monaspaceargon]           - [TAR.GZ][tar-monaspaceargon]           |
-| [Monaspace Krypton IF][if-monaspacekrypton]                | [Monaspace][monaspace-krypton]               | `1.101`   | [MonaspaceKrypton][preview-monaspacekrypton]                 | [ZIP][zip-monaspacekrypton]         - [TAR.GZ][tar-monaspacekrypton]         |
-| [Monaspace Neon IF][if-monaspaceneon]                      | [Monaspace][monaspace-neon]                  | `1.101`   | [MonaspaceNeon][preview-monaspaceneon]                       | [ZIP][zip-monaspaceneon]            - [TAR.GZ][tar-monaspaceneon]            |
-| [Monaspace Radon IF][if-monaspaceradon]                    | [Monaspace][monaspace-radon]                 | `1.101`   | [MonaspaceRadon][preview-monaspaceradon]                     | [ZIP][zip-monaspaceradon]           - [TAR.GZ][tar-monaspaceradon]           |
-| [Monaspace Xenon IF][if-monaspacexenon]                    | [Monaspace][monaspace-xenon]                 | `1.101`   | [MonaspaceXenon][preview-monaspacexenon]                     | [ZIP][zip-monaspacexenon]           - [TAR.GZ][tar-monaspacexenon]           |
+| [Monaspace Argon IF][if-monaspaceargon]                    | [Monaspace][monaspace-argon]                 | `1.101`   | [Monaspace Argon][preview-monaspaceargon]                    | [ZIP][zip-monaspaceargon]           - [TAR.GZ][tar-monaspaceargon]           |
+| [Monaspace Krypton IF][if-monaspacekrypton]                | [Monaspace][monaspace-krypton]               | `1.101`   | [Monaspace Krypton][preview-monaspacekrypton]                | [ZIP][zip-monaspacekrypton]         - [TAR.GZ][tar-monaspacekrypton]         |
+| [Monaspace Neon IF][if-monaspaceneon]                      | [Monaspace][monaspace-neon]                  | `1.101`   | [Monaspace Neon][preview-monaspaceneon]                      | [ZIP][zip-monaspaceneon]            - [TAR.GZ][tar-monaspaceneon]            |
+| [Monaspace Radon IF][if-monaspaceradon]                    | [Monaspace][monaspace-radon]                 | `1.101`   | [Monaspace Radon][preview-monaspaceradon]                    | [ZIP][zip-monaspaceradon]           - [TAR.GZ][tar-monaspaceradon]           |
+| [Monaspace Xenon IF][if-monaspacexenon]                    | [Monaspace][monaspace-xenon]                 | `1.101`   | [Monaspace Xenon][preview-monaspacexenon]                    | [ZIP][zip-monaspacexenon]           - [TAR.GZ][tar-monaspacexenon]           |
 | [Monofoki IF][if-monofoki]                                 | [Monofoki][monofoki]                         | `3.1`     | [Monofoki][preview-monofoki]                                 | [ZIP][zip-monofoki]                 - [TAR.GZ][tar-monofoki]                 |
 | [Monoid IF][if-monoid]                                     | [Monoid][monoid]                             | `0.61`    | [Monoid][preview-monoid]                                     | [ZIP][zip-monoid]                   - [TAR.GZ][tar-monoid]                   |
 | [Mononoki IF][if-mononoki]                                 | [Mononoki][mononoki]                         | `1.6`     | [Mononoki][preview-mononoki]                                 | [ZIP][zip-mononoki]                 - [TAR.GZ][tar-mononoki]                 |
@@ -619,11 +619,11 @@ Please refer to the [LICENSE](https://github.com/iconicFonts/if/blob/main/LICENS
 [preview-lilex]:                    fonts/patched/Lilex/preview.png
 [preview-maple-mono]:               fonts/patched/Maple_Mono/preview.png
 [preview-martian-mono]:             fonts/patched/Martian_Mono/preview.png
-[preview-monaspaceargon]:           fonts/patched/MonaspaceArgon/preview.png
-[preview-monaspacekrypton]:         fonts/patched/MonaspaceKrypton/preview.png
-[preview-monaspaceneon]:            fonts/patched/MonaspaceNeon/preview.png
-[preview-monaspaceradon]:           fonts/patched/MonaspaceRadon/preview.png
-[preview-monaspacexenon]:           fonts/patched/MonaspaceXenon/preview.png
+[preview-monaspaceargon]:           fonts/patched/Monaspace_Argon/preview.png
+[preview-monaspacekrypton]:         fonts/patched/Monaspace_Krypton/preview.png
+[preview-monaspaceneon]:            fonts/patched/Monaspace_Neon/preview.png
+[preview-monaspaceradon]:           fonts/patched/Monaspace_Radon/preview.png
+[preview-monaspacexenon]:           fonts/patched/Monaspace_Xenon/preview.png
 [preview-monofoki]:                 fonts/patched/Monofoki/preview.png
 [preview-monoid]:                   fonts/patched/Monoid/preview.png
 [preview-mononoki]:                 fonts/patched/mononoki/preview.png
