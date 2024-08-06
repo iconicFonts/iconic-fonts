@@ -141,7 +141,6 @@ Here is a list of all all icon packs that we support.
 | [IconBrew][if-iconbrew]               | [IconBrew][iconbrew]                                 |   140 | [ZIP][zip-iconbrew]        - [TAR.GZ][tar-iconbrew]        |
 | [Iconoir][if-iconoir]                 | [Iconoir][iconoir]                                   |  1583 | [ZIP][zip-iconoir]         - [TAR.GZ][tar-iconoir]         |
 | [IconPark][if-iconpark]               | [IconPark][iconpark]                                 |  4496 | [ZIP][zip-iconpark]        - [TAR.GZ][tar-iconpark]        |
-| [IF][if]                              |                                                      | 63184 | [ZIP][zip-if]              - [TAR.GZ][tar-if]              |
 | [Ionicons][if-ionicons]               | [Ionicons][ionicons]                                 |  1352 | [ZIP][zip-ionicons]        - [TAR.GZ][tar-ionicons]        |
 | [LegacyComputing][if-legacycomputing] | [Legacy Computing Symbols][legacy-computing-symbols] |    88 | [ZIP][zip-legacycomputing] - [TAR.GZ][tar-legacycomputing] |
 | [Linea][if-linea]                     | [Linea Iconset][linea-iconset]                       |   724 | [ZIP][zip-linea]           - [TAR.GZ][tar-linea]           |
@@ -349,7 +348,6 @@ Please refer to the [LICENSE](https://github.com/iconicFonts/if/blob/main/LICENS
 [if-typicons]:        packs/Typicons
 [if-vaadin]:          packs/Vaadin
 [if-weather]:         packs/Weather
-[if]:                 packs/IF/fonts
 
 <!-------------------------------------------------------------- PACKS (ZIP) -->
 
@@ -382,7 +380,6 @@ Please refer to the [LICENSE](https://github.com/iconicFonts/if/blob/main/LICENS
 [zip-iconbrew]:        https://github.com/iconicFonts/if/releases/download/v1.1.0/IconBrew.zip
 [zip-iconoir]:         https://github.com/iconicFonts/if/releases/download/v1.1.0/Iconoir.zip
 [zip-iconpark]:        https://github.com/iconicFonts/if/releases/download/v1.1.0/IconPark.zip
-[zip-if]:              https://github.com/iconicFonts/if/releases/download/v1.1.0/IF.zip
 [zip-ionicons]:        https://github.com/iconicFonts/if/releases/download/v1.1.0/Ionicons.zip
 [zip-legacycomputing]: https://github.com/iconicFonts/if/releases/download/v1.1.0/LegacyComputing.zip
 [zip-linea]:           https://github.com/iconicFonts/if/releases/download/v1.1.0/Linea.zip
@@ -442,7 +439,6 @@ Please refer to the [LICENSE](https://github.com/iconicFonts/if/blob/main/LICENS
 [tar-iconbrew]:        https://github.com/iconicFonts/if/releases/download/v1.1.0/IconBrew.tar.gz
 [tar-iconoir]:         https://github.com/iconicFonts/if/releases/download/v1.1.0/Iconoir.tar.gz
 [tar-iconpark]:        https://github.com/iconicFonts/if/releases/download/v1.1.0/IconPark.tar.gz
-[tar-if]:              https://github.com/iconicFonts/if/releases/download/v1.1.0/IF.tar.gz
 [tar-ionicons]:        https://github.com/iconicFonts/if/releases/download/v1.1.0/Ionicons.tar.gz
 [tar-legacycomputing]: https://github.com/iconicFonts/if/releases/download/v1.1.0/LegacyComputing.tar.gz
 [tar-linea]:           https://github.com/iconicFonts/if/releases/download/v1.1.0/Linea.tar.gz
