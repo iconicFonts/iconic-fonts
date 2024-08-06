@@ -559,11 +559,11 @@ Please refer to the [LICENSE](https://github.com/iconicFonts/if/blob/main/LICENS
 [if-lilex]:                    fonts/patched/Lilex
 [if-maple-mono]:               fonts/patched/Maple_Mono
 [if-martian-mono]:             fonts/patched/Martian_Mono
-[if-monaspaceargon]:           fonts/patched/MonaspaceArgon
-[if-monaspacekrypton]:         fonts/patched/MonaspaceKrypton
-[if-monaspaceneon]:            fonts/patched/MonaspaceNeon
-[if-monaspaceradon]:           fonts/patched/MonaspaceRadon
-[if-monaspacexenon]:           fonts/patched/MonaspaceXenon
+[if-monaspaceargon]:           fonts/patched/Monaspace_Argon
+[if-monaspacekrypton]:         fonts/patched/Monaspace_Krypton
+[if-monaspaceneon]:            fonts/patched/Monaspace_Neon
+[if-monaspaceradon]:           fonts/patched/Monaspace_Radon
+[if-monaspacexenon]:           fonts/patched/Monaspace_Xenon
 [if-monofoki]:                 fonts/patched/Monofoki
 [if-monoid]:                   fonts/patched/Monoid
 [if-mononoki]:                 fonts/patched/mononoki
