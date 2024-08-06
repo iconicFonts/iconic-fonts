@@ -186,7 +186,7 @@ Similar to Powerline and [Powerline Extra Symbols](https://github.com/ryanoasis/
 
 ## Searching Glyphs
 
-Searching for glyphs using [fzf](https://junegunn.github.io/fzf/) is a breeze. Just download the [index.csv](https://github.com/iconicFonts/if/tree/main/indices) and run fzf with the index path to begin your search.
+Searching for glyphs using [fzf](https://junegunn.github.io/fzf/) is a breeze. Just download the [index.csv](https://github.com/iconicFonts/if/tree/main/packs/IF/index.csv) and run fzf with the index path to begin your search.
 
 ```sh
 column -mts ',' -o $'\t' path_to_the_index_file.csv |
