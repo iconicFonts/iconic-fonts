@@ -2,7 +2,7 @@
 
 # Iconic Fonts
 
-Over 50 Pre-patched fonts designed for enthusiasts who love to rice their terminal, window manager, and more, featuring over **60k icons** as glyphs for ultimate customization and flair!
+Over **50 Pre-patched** fonts designed for enthusiasts who love to rice their terminal, window manager, and more, featuring over **60k icons** as glyphs for ultimate customization and flair!
 
 ![if-text](assets/png/iconicfonts-text.png)
 
