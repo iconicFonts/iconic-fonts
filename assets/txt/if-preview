@@ -1,0 +1,38 @@
+󽠄󹍂  19:39 󽞠 EN󽟸 󽠄󽜾  󽟨  󽟽  󽜘  󽟜  󽛿  󽠗 12󽟸 󽠄󴓥  󸃎  󷪁  󹢩 󽟸         󽠄1󽟸󽠄2󽟸󽠄3󽟸󽠄4󽟸󽠄5󽟸       󽠄󽞝 50% 󽟄 Mute󽟸 󽠄󽜫 60% 󽟂 20%󽟸 󽠄󽜻 02% 󽟓 45°󽟸 󽠄󽟹 01% 󽠠 20°󽟸
+╭────────────────────────────────────────────────────╮ ╭────────────────────────────────────────────────────────────────────────────────────╮
+│                          󹍂  Arch Linux x86_64      │ │                                   󴓁  main.css 󸚅   󽓈  app.js   󴍈   󴛤  README.md  󴍈  │
+│        ██╗  ███████╗     󴄖  1D 11H 55M             │ │  󳺸 󾯬  projects/taskly            9  /* Reset some default browser styles */        │
+│        ██║  ██╔════╝     󽠗  1030 (pacman)          │ │    󳺸 󾯬  backend                  8  body, h1, h2, h3, p, ul, li {                  │
+│        ██║  █████╗       󴊿  zsh 5.9                │ │      󳺼 󾮸  src                    7  │   margin: 0;                                 │
+│        ██║  ██╔══╝       󴄕  1024x768               │ │      󳺼 󾮸  controllers            6  │   padding: 0;                                │
+│        ██║  ██║          󽟽  Adwaita [GTK2], catppu │ │      󳺼 󾮸  models                 5  }                                              │
+│        ╚═╝  ╚═╝          󴊇  kitty                  │ │      󳺼 󾮸  routes                 4                                                 │
+│    █████████████████████ 󵥽  AMD Ryzen 5 2600 (12)  │ │      󳺼 󾮸  middleware             3  body {                                         │
+│ ████████████████████████ 󽟹  NVIDIA GeForce GTX 165 │ │      󳺸 󾯬  utils                  2  │   font-family: Arial, sans-serif;            │
+│                                                    │ │           󽓈  tokenUtils.js       1  │   line-height: 1.6;                          │
+│ 󽝂~/projs/if󽛣 󽝂󴀩 master󽛣                        󽝂5  │ │           󽓈  app.js         󾵁   10  │   background-color: #cdd6f4;                 │
+│ 󽞴 if -search                                       │ │           󽓈  server.js      󾴆    1  │   color: #333;                               │
+│  ╭──────────────────────────────────────────────╮  │ │      󳺼 󾮸  logs                   2  }                                              │
+│  │   󹭭   Box        folder-2                    │  │ │        󾷱  .env                   3                                                 │
+│  │   󾡢   Bootstrap  folder2-open                │  │ │         󳹷  package.json          4  header {                                       │
+│  │   󾍘   Bootstrap  folder2                     │  │ │         󳹷  package-lock.json     5  │   background: #333;                          │
+│  │   󾌙   Bootstrap  folder-x                    │  │ │    󳺸 󾯬  frontend                 6  │   color: #fff;                               │
+│  │   󾚭   Bootstrap  folder-symlink-fill         │  │ │      󳺼 󾮸  public                 7  │   padding: 10px 0;                           │
+│  │   󾟯   Bootstrap  folder-symlink              │  │ │      󳺼 󾮸  src                    8  │   text-align: center;                        │
+│  │   󾐜   Bootstrap  folder-plus                 │  │ │      󳺸 󾯬  components             9  }                                              │
+│  │   󾐽   Bootstrap  folder-minus                │  │ │           󽓈  navbar.js          10                                                 │
+│  │   󾋰   Bootstrap  folder-fill                 │  │ │           󽓈  popovers.js        11  header h1 {                                    │
+│  │   󾞤   Bootstrap  folder-check                │  │ │           󽓈  spinners.js        12  │   margin: 0;                                 │
+│  │   󾂇   Bootstrap  folder                      │  │ │      󳺸 󾯬  pages                 13  }                                              │
+│  │   󽑼   AntDesign  folder-view                 │  │ │           󽓈  HomePage.js        14                                                 │
+│  │   󽑹   AntDesign  folder-open-2               │  │ │      󳺼 󾮸  services              15  nav {                                          │
+│  │   󽑺   AntDesign  folder-open                 │  │ │      󳺼 󾮸  assets                16  │   text-align: center;                        │
+│  │   󽑷   AntDesign  folder-add-2                │  │ │      󳺸 󾯬  styles                17  │   margin: 20px 0;                            │
+│  │   󽑸   AntDesign  folder-add                  │  │ │           󴓁  main.css       󸚅   18  }                                              │
+│  │   󽑶   AntDesign  folder-2                    │  │ │        󳹷  package.json          19                                                 │
+│  │ 󳺼 󽑻   AntDesign  folder                      │  │ │        󳹷  package-lock.json     20  nav a {                                        │
+│  │                                              │  │ │      󴛤  README.md               21  │   color: #333;                               │
+│  │ 󴈃  folder                      673/63147 (0) │  │ │      󴖱  .gitignore              22  │   text-decoration: none;                     │
+│  │   G   Pack       Name                        │  │ │      󴓭  docker-compose.yml      23  }                                              │
+│  ╰──────────────────────────────────────────────╯  │ │ 󽠄NORMAL󽟸 󽠄󴀩 master󽟸 main.css                                    󴓁  css 󽠄26% 10:12󽟸 │
+╰────────────────────────────────────────────────────╯ ╰────────────────────────────────────────────────────────────────────────────────────╯
