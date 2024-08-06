@@ -10,7 +10,7 @@
 | :--------------- | :---------------------------- |
 | **Font Name**    | Office Code Pro IF            |
 | **Font Version** | `1.004`                       |
-| **Download**     | [zip][zip] - [tar.xz][tar]    |
+| **Download**     | [zip][zip] - [tar.gz][tar]    |
 
 ![Font preview](preview.png)
 

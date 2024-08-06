@@ -10,7 +10,7 @@
 | :--------------- | :------------------------- |
 | **Font Name**    | Hack IF                    |
 | **Font Version** | `3.003`                    |
-| **Download**     | [zip][zip] - [tar.xz][tar] |
+| **Download**     | [zip][zip] - [tar.gz][tar] |
 
 ![Font preview](preview.png)
 

@@ -10,7 +10,7 @@
 | :--------------- | :------------------------- |
 | **Font Name**    | Rec Mono Casual IF         |
 | **Font Version** | `1.085`                    |
-| **Download**     | [zip][zip] - [tar.xz][tar] |
+| **Download**     | [zip][zip] - [tar.gz][tar] |
 
 ![Font preview](preview.png)
 

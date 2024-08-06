@@ -10,7 +10,7 @@
 | :--------------- | :------------------------- |
 | **Font Name**    | IBM 3270 IF                |
 | **Font Version** | `3.0.1`                    |
-| **Download**     | [zip][zip] - [tar.xz][tar] |
+| **Download**     | [zip][zip] - [tar.gz][tar] |
 
 ![Font preview](preview.png)
 

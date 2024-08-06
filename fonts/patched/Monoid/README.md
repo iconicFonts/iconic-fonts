@@ -10,7 +10,7 @@
 | :--------------- | :------------------------- |
 | **Font Name**    | Monoid IF                  |
 | **Font Version** | `0.61`                     |
-| **Download**     | [zip][zip] - [tar.xz][tar] |
+| **Download**     | [zip][zip] - [tar.gz][tar] |
 
 ![Font preview](preview.png)
 

@@ -10,7 +10,7 @@
 | :--------------- | :------------------------- |
 | **Font Name**    | BigBlue TerminalPlus IF    |
 | **Font Version** | `1.0`                      |
-| **Download**     | [zip][zip] - [tar.xz][tar] |
+| **Download**     | [zip][zip] - [tar.gz][tar] |
 
 ![Font preview](preview.png)
 

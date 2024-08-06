@@ -9,7 +9,7 @@
 | :--------------- | :------------------------- |
 | **Font Name**    | Aurulent Sans Mono IF      |
 | **Font Version** | unknown                    |
-| **Download**     | [zip][zip] - [tar.xz][tar] |
+| **Download**     | [zip][zip] - [tar.gz][tar] |
 
 ![Font preview](preview.png)
 

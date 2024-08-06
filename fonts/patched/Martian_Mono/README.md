@@ -10,7 +10,7 @@
 | :--------------- | :------------------------- |
 | **Font Name**    | Martian Mono IF            |
 | **Font Version** | `1.0.0`                    |
-| **Download**     | [zip][zip] - [tar.xz][tar] |
+| **Download**     | [zip][zip] - [tar.gz][tar] |
 
 ![Font preview](preview.png)
 

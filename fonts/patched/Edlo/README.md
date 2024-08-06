@@ -10,7 +10,7 @@
 | :--------------- | :------------------------- |
 | **Font Name**    | Edlo IF                    |
 | **Font Version** | `1.00`                     |
-| **Download**     | [zip][zip] - [tar.xz][tar] |
+| **Download**     | [zip][zip] - [tar.gz][tar] |
 
 ![Font preview](preview.png)
 

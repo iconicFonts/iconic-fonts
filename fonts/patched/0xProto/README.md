@@ -10,7 +10,7 @@
 | :--------------- | :------------------------- |
 | **Font Name**    | 0xProto IF                 |
 | **Font Version** | `2.100`                    |
-| **Download**     | [zip][zip] - [tar.xz][tar] |
+| **Download**     | [zip][zip] - [tar.gz][tar] |
 
 ![Font preview](preview.png)
 

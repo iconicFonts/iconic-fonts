@@ -9,7 +9,7 @@
 | :--------------- | :-------------------------- |
 | **Font Name**    | Bitstream Vera Sans Mono IF |
 | **Font Version** | `1.10`                      |
-| **Download**     | [zip][zip] - [tar.xz][tar]  |
+| **Download**     | [zip][zip] - [tar.gz][tar]  |
 
 ![Font preview](preview.png)
 

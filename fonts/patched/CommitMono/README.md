@@ -10,7 +10,7 @@
 | :--------------- | :--------------------------------- |
 | **Font Name**    | CommitMono IF                      |
 | **Font Version** | `1.143`                            |
-| **Download**     | [zip][zip] - [tar.xz][tar]         |
+| **Download**     | [zip][zip] - [tar.gz][tar]         |
 
 ![Font preview](preview.png)
 

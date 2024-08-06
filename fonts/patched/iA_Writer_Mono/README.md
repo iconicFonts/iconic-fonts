@@ -10,7 +10,7 @@
 | :--------------- | :------------------------- |
 | **Font Name**    | iA Writer Mono IF          |
 | **Font Version** | `2.000`                    |
-| **Download**     | [zip][zip] - [tar.xz][tar] |
+| **Download**     | [zip][zip] - [tar.gz][tar] |
 
 ![Font preview](preview.png)
 

@@ -10,7 +10,7 @@
 | :--------------- | :----------------------------------- |
 | **Font Name**    | Courier Prime IF                     |
 | **Font Version** | `1.203`                              |
-| **Download**     | [zip][zip] - [tar.xz][tar]           |
+| **Download**     | [zip][zip] - [tar.gz][tar]           |
 
 ![Font preview](preview.png)
 

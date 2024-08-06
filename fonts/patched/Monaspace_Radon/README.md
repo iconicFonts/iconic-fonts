@@ -10,7 +10,7 @@
 | :--------------- | :-------------------------- |
 | **Font Name**    | Monaspace Radon IF          |
 | **Font Version** | `1.101`                     |
-| **Download**     | [zip][zip] - [tar.xz][tar]  |
+| **Download**     | [zip][zip] - [tar.gz][tar]  |
 
 ![Font preview](preview.png)
 

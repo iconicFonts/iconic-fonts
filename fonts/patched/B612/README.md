@@ -10,7 +10,7 @@
 | :--------------- | :------------------------- |
 | **Font Name**    | B612 IF                    |
 | **Font Version** | `1.008`                    |
-| **Download**     | [zip][zip] - [tar.xz][tar] |
+| **Download**     | [zip][zip] - [tar.gz][tar] |
 
 ![Font preview](preview.png)
 

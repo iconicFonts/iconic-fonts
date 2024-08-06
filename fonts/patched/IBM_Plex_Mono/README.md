@@ -10,7 +10,7 @@
 | :--------------- | :------------------------- |
 | **Font Name**    | IBM Plex Mono IF           |
 | **Font Version** | `6.4.2`                    |
-| **Download**     | [zip][zip] - [tar.xz][tar] |
+| **Download**     | [zip][zip] - [tar.gz][tar] |
 
 ![Font preview](preview.png)
 

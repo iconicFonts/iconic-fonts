@@ -10,7 +10,7 @@
 | :--------------- | :------------------------- |
 | **Font Name**    | Fira Mono IF               |
 | **Font Version** | `3.206`                    |
-| **Download**     | [zip][zip] - [tar.xz][tar] |
+| **Download**     | [zip][zip] - [tar.gz][tar] |
 
 ![Font preview](preview.png)
 

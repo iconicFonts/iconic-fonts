@@ -10,7 +10,7 @@
 | :--------------- | :---------------------------- |
 | **Font Name**    | Press Start 2P IF             |
 | **Font Version** | `2.14`                        |
-| **Download**     | [zip][zip] - [tar.xz][tar]    |
+| **Download**     | [zip][zip] - [tar.gz][tar]    |
 
 ![Font preview](preview.png)
 

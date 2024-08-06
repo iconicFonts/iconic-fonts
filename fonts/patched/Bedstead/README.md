@@ -10,7 +10,7 @@
 | :--------------- | :------------------------- |
 | **Font Name**    | Bedstead IF                |
 | **Font Version** | `2.006`                    |
-| **Download**     | [zip][zip] - [tar.xz][tar] |
+| **Download**     | [zip][zip] - [tar.gz][tar] |
 
 ![Font preview](preview.png)
 

@@ -10,7 +10,7 @@
 | :--------------- | :------------------------- |
 | **Font Name**    | Geist Mono IF              |
 | **Font Version** | `1.3.0`                    |
-| **Download**     | [zip][zip] - [tar.xz][tar] |
+| **Download**     | [zip][zip] - [tar.gz][tar] |
 
 ![Font preview](preview.png)
 

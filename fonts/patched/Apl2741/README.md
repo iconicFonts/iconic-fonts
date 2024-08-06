@@ -10,7 +10,7 @@
 | :--------------- | :------------------------- |
 | **Font Name**    | Apl2741 IF                 |
 | **Font Version** | `2.00003`                  |
-| **Download**     | [zip][zip] - [tar.xz][tar] |
+| **Download**     | [zip][zip] - [tar.gz][tar] |
 
 ![Font preview](preview.png)
 

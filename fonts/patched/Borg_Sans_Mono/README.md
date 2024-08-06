@@ -10,7 +10,7 @@
 | :--------------- | :--------------------------- |
 | **Font Name**    | Borg Sans Mono IF            |
 | **Font Version** | `0.2.0`                      |
-| **Download**     | [zip][zip] - [tar.xz][tar]   |
+| **Download**     | [zip][zip] - [tar.gz][tar]   |
 
 ![Font preview](preview.png)
 
