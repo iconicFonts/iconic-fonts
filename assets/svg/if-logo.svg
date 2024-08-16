@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1000"
+   height="1000"
+   version="1.1"
+   viewBox="0 0 1000 1000"
+   id="svg1"
+   sodipodi:docname="if-logo.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   inkscape:export-filename="if-logo.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#1e1e2e"
+     bordercolor="#000000"
+     borderopacity="0"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#11111b"
+     showgrid="false"
+     inkscape:zoom="0.77056471"
+     inkscape:cx="907.12693"
+     inkscape:cy="421.11973"
+     inkscape:window-width="3840"
+     inkscape:window-height="2160"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg1"
+     showguides="true"
+     guidecolor="#8839ef"
+     guideopacity="1">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#1e66f5"
+       empopacity="1"
+       color="#1e66f5"
+       opacity="0.50196078"
+       empspacing="6"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="false" />
+  </sodipodi:namedview>
+  <rect
+     style="fill:#cdd6f4;stroke:#11111b;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;paint-order:stroke fill markers"
+     id="rect32"
+     width="998"
+     height="998"
+     x="1"
+     y="1"
+     inkscape:label="bg" />
+  <text
+     xml:space="preserve"
+     style="font-size:102.766px;line-height:normal;font-family:'Monaspace Radon IF';-inkscape-font-specification:'Monaspace Radon IF';text-decoration-color:#000000;fill:#1e1e2e;stroke-width:0.00000126;stroke-linecap:round;-inkscape-stroke:none"
+     x="129.75229"
+     y="234.93698"
+     id="text3"
+     inkscape:label="IF"><tspan
+       sodipodi:role="line"
+       x="129.75229"
+       y="234.93698"
+       style="font-family:'Fira Code IF';-inkscape-font-specification:'Fira Code IF'"
+       id="tspan8">██╗ ███████╗</tspan><tspan
+       sodipodi:role="line"
+       x="129.75229"
+       y="366.73438"
+       style="font-family:'Fira Code IF';-inkscape-font-specification:'Fira Code IF'"
+       id="tspan13">██║ ██╔════╝</tspan><tspan
+       sodipodi:role="line"
+       x="129.75229"
+       y="498.53177"
+       style="font-family:'Fira Code IF';-inkscape-font-specification:'Fira Code IF'"
+       id="tspan14">██║ █████╗</tspan><tspan
+       sodipodi:role="line"
+       x="129.75229"
+       y="630.32916"
+       style="font-family:'Fira Code IF';-inkscape-font-specification:'Fira Code IF'"
+       id="tspan15">██║ ██╔══╝</tspan><tspan
+       sodipodi:role="line"
+       x="129.75229"
+       y="762.12653"
+       style="font-family:'Fira Code IF';-inkscape-font-specification:'Fira Code IF'"
+       id="tspan16">██║ ██║</tspan><tspan
+       sodipodi:role="line"
+       x="129.75229"
+       y="893.92395"
+       style="font-family:'Fira Code IF';-inkscape-font-specification:'Fira Code IF'"
+       id="tspan17">╚═╝ ╚═╝</tspan></text>
+</svg>
